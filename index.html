@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscar</title>
+
+    <style>
+        .main-header {
+            display: flex;
+            /* Habilita Flexbox para el header */
+            justify-content: space-between;
+            /* Distribuye el espacio entre los elementos (logo, nav, botón) */
+            align-items: center;
+            /* Centra los elementos verticalmente */
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+        }
+
+        .logo {
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+
+        input {
+            width: 100%;
+            height: 28px;
+        }
+
+
+
+        .header-button {
+            background-color: #007bff;
+            /* Color de fondo del botón */
+            color: white;
+            /* Color del texto */
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            /* Esquinas redondeadas */
+            cursor: pointer;
+            /* Cambia el cursor a una mano */
+        }
+
+        .card {
+            border: 1px solid black;
+            border-radius: 3px;
+            margin: 4px;
+            padding: 4px;
+        }
+
+        p {
+            margin: 4px;
+            padding: 4px;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="main-header">
+        <div class="logo"><input type="number" id="inputSearch"></div>
+        <button class="header-button" type="button" onclick="buscar()">🔍</button>
+    </header>
+
+    <div class="contenedor">
+
+    </div>
+
+    <script src="script1.js"></script>
+    <script src="script2.js"></script>
+</body>
+
+</html>
