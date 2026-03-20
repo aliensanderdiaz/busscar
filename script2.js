@@ -17,11 +17,23 @@ const contenedor = document.querySelector('.contenedor')
 let html = ''
 
 for (const element of perfilesMostrar) {
-    let telefonoMostrar = element.otrosNumeros[element.otrosNumeros - 1] || element.celular
+    let telefonoMostrar = element.otrosNumeros[element.otrosNumeros.length - 1] || element.celular
     html += `
         <div class="card">
             <p>
-                ${decodificar(telefonoMostrar)} <br>
+                <a 
+                href="https://www.google.com/search?q=${decodificar(telefonoMostrar)}" 
+                target="_blank" 
+                rel="noopener noreferrer">${decodificar(telefonoMostrar)}</a> 
+
+                -
+                
+                <a 
+                href="https://co.mileroticos.com/escorts/buscar-${decodificar(telefonoMostrar)}" 
+                target="_blank" 
+                rel="noopener noreferrer">Ⓜ️</a> 
+                
+                <br>
                 ${element.rato} - ${element.media} - ${element.hora} <br>
                 ${decodificar(element.lugar)} <br>
 
