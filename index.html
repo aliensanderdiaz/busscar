@@ -7,6 +7,10 @@
     <title>Buscar</title>
 
     <style>
+        body {
+            padding-top: 70px;
+        }
+
         .main-header {
             display: flex;
             /* Habilita Flexbox para el header */
@@ -17,6 +21,19 @@
             background-color: #333;
             color: white;
             padding: 10px 20px;
+
+            position: fixed;
+            /* Mantiene el header en su lugar */
+            top: 0;
+            /* Lo pega al borde superior */
+            left: 0;
+            /* Alinea al borde izquierdo */
+            width: 90%;
+            /* Asegura que ocupe todo el ancho */
+            z-index: 1000;
+            /* Asegura que esté por encima de otros elementos */
+
+            height: 60px;
         }
 
         .logo {
@@ -59,6 +76,30 @@
         a {
             text-decoration: none;
         }
+
+        .btn-full {
+  /* Ancho total */
+  width: 100%;
+  display: block;
+  box-sizing: border-box; /* Asegura que el padding no aumente el ancho total */
+  
+  /* Color y diseño más bonito */
+  background-color: #4CAF50; /* Un verde vibrante */
+  color: white;
+  padding: 15px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px; /* Esquinas suaves */
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Transición suave */
+  font-weight: bold;
+}
+
+/* Efecto al pasar el mouse (hover) */
+.btn-full:hover {
+  background-color: #45a049; /* Verde un poco más oscuro */
+}
+
     </style>
 </head>
 
@@ -72,7 +113,7 @@
 
     </div>
 
-    
+
 
     <script src="script1.js"></script>
     <script src="script2.js"></script>
