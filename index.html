@@ -62,6 +62,7 @@
         }
 
         .card {
+            display: flex;
             border: 1px solid black;
             border-radius: 3px;
             margin: 4px;
@@ -78,28 +79,32 @@
         }
 
         .btn-full {
-  /* Ancho total */
-  width: 100%;
-  display: block;
-  box-sizing: border-box; /* Asegura que el padding no aumente el ancho total */
-  
-  /* Color y diseño más bonito */
-  background-color: #4CAF50; /* Un verde vibrante */
-  color: white;
-  padding: 15px 20px;
-  font-size: 16px;
-  border: none;
-  border-radius: 8px; /* Esquinas suaves */
-  cursor: pointer;
-  transition: background-color 0.3s ease; /* Transición suave */
-  font-weight: bold;
-}
+            /* Ancho total */
+            width: 100%;
+            display: block;
+            box-sizing: border-box;
+            /* Asegura que el padding no aumente el ancho total */
 
-/* Efecto al pasar el mouse (hover) */
-.btn-full:hover {
-  background-color: #45a049; /* Verde un poco más oscuro */
-}
+            /* Color y diseño más bonito */
+            background-color: #4CAF50;
+            /* Un verde vibrante */
+            color: white;
+            padding: 15px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            /* Esquinas suaves */
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            /* Transición suave */
+            font-weight: bold;
+        }
 
+        /* Efecto al pasar el mouse (hover) */
+        .btn-full:hover {
+            background-color: #45a049;
+            /* Verde un poco más oscuro */
+        }
     </style>
 </head>
 

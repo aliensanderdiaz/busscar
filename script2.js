@@ -22,6 +22,10 @@ const reset = () => {
         let telefonoMostrar = element.otrosNumeros[element.otrosNumeros.length - 1] || element.celular
         html += `
         <div class="card">
+            <div>
+                <img src="${ element.images[0] ? 'https://static1.mileroticos.com/photos/l1/' +  decodificar(element.images[0])  : '' }" width="50"/>
+            </div>
+        
             <p> ${index} - 
                 <a 
                 href="https://www.google.com/search?q=${decodificar(telefonoMostrar)}" 
