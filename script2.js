@@ -75,6 +75,9 @@ const buscar = () => {
         let telefonoMostrar = perfil.otrosNumeros[perfil.otrosNumeros - 1] || perfil.celular
         contenedor.innerHTML = `
         <div class="card">
+                    <div>
+                <img src="${ perfil.images[0] ? 'https://static1.mileroticos.com/photos/l1/' +  decodificar(perfil.images[0])  : '' }" width="50"/>
+            </div>
             <p>
                 <a 
                 href="https://www.google.com/search?q=${decodificar(telefonoMostrar)}" 
