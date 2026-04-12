@@ -20,6 +20,11 @@ const reset = () => {
     let index = 1
     for (const element of perfilesMostrar) {
         let telefonoMostrar = element.otrosNumeros[element.otrosNumeros.length - 1] || element.celular
+        let codigos = element.codigos
+        if (codigos.length > 5) {
+            codigos = codigos.slice(codigos.length - 5)
+        }
+        let codigosHtml = codigos.map(code => `<a target="_blank" href="https://co.mileroticos.com/escorts/xxx/${ decodificar(code) }">Ⓜ️</a>`)
         html += `
         <div class="card">
             <div>
@@ -37,12 +42,12 @@ const reset = () => {
                 <a 
                 href="https://co.mileroticos.com/escorts/buscar-${decodificar(telefonoMostrar)}" 
                 target="_blank" 
-                rel="noopener noreferrer">Ⓜ️</a> 
+                rel="noopener noreferrer">Ⓜ️</a> - ${ element.otrosNumeros.length + 1 }T - ${ element.codigos.length }C
                 
                 <br>
                 ${element.rato} - ${element.media} - ${element.hora} <br>
                 ${decodificar(element.lugar)} <br>
-
+                ${ codigosHtml.join(' - ')}
                 
             </p>
         </div>`
