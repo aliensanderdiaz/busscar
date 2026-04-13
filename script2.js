@@ -1,5 +1,5 @@
 console.log({ length: perfiles.length })
-let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 49)
+let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 71)
 console.log({ length: perfiles.length })
 
 const codificar = (entrada) => {
@@ -78,6 +78,13 @@ const buscar = () => {
         contenedor.innerHTML = `<div class="card"><p>${inputSearch.value} No encontrado</p></div><div class="card"><button class="btn-full" onclick="reset()">Reset</button></div>`
     } else {
         let telefonoMostrar = perfil.otrosNumeros[perfil.otrosNumeros - 1] || perfil.celular
+
+        let codigos = perfil.codigos
+        if (codigos.length > 5) {
+            codigos = codigos.slice(codigos.length - 5)
+        }
+        let codigosHtml = codigos.map(code => `<a target="_blank" href="https://co.mileroticos.com/escorts/xxx/${ decodificar(code) }">Ⓜ️</a>`)
+
         contenedor.innerHTML = `
         <div class="card">
                     <div>
@@ -94,12 +101,12 @@ const buscar = () => {
                 <a 
                 href="https://co.mileroticos.com/escorts/buscar-${decodificar(telefonoMostrar)}" 
                 target="_blank" 
-                rel="noopener noreferrer">Ⓜ️</a> 
+                rel="noopener noreferrer">Ⓜ️</a>  - ${ perfil.otrosNumeros.length + 1 }T - ${ perfil.codigos.length }C
                 
                 <br>
                 ${perfil.rato} - ${perfil.media} - ${perfil.hora} <br>
                 ${decodificar(perfil.lugar)} <br>
-
+                ${ codigosHtml.join(' - ')}
                 
             </p>
         </div><div class="card"><button class="btn-full" onclick="reset()">Reset</button></div>`
