@@ -1193,10 +1193,10 @@ let perfiles = [
   },
   {
     "celular": "3n0n1n1n0n6n0n3n7n8n",
-    "rato": 1,
-    "media": 1,
-    "hora": 1,
-    "lugar": "",
+    "rato": 60,
+    "media": 100,
+    "hora": 160,
+    "lugar": "cnonlnonnninanln",
     "codigos": [
       "2n6n3n8n6n2n5n2n",
       "2n6n3n8n6n2n6n3n",
