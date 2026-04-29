@@ -14,11 +14,11 @@ const decodificar = (entrada) => {
 
 const contenedor = document.querySelector('.contenedor')
 
-const reset = () => {
+const reset = (filterProfiles = perfilesMostrar ) => {
 
     let html = ''
     let index = 1
-    for (const element of perfilesMostrar) {
+    for (const element of filterProfiles) {
         let telefonoMostrar = element.otrosNumeros[element.otrosNumeros.length - 1] || element.celular
         let codigos = element.codigos
         if (codigos.length > 5) {
@@ -46,7 +46,7 @@ const reset = () => {
                 
                 <br>
                 ${element.rato} - ${element.media} - ${element.hora} <br>
-                ${decodificar(element.lugar)} <br>
+                ${element.lugar !== 'nnon' ? decodificar(element.lugar) : element.mensaje.substring(0, 100)} <br>
                 ${ codigosHtml.join(' - ')}
                 
             </p>
@@ -105,10 +105,16 @@ const buscar = () => {
                 
                 <br>
                 ${perfil.rato} - ${perfil.media} - ${perfil.hora} <br>
-                ${decodificar(perfil.lugar)} <br>
+                ${perfil.lugar !== 'nnon' ? decodificar(perfil.lugar) : perfil?.mensaje?.substring(0, 100)} <br>
                 ${ codigosHtml.join(' - ')}
                 
             </p>
         </div><div class="card"><button class="btn-full" onclick="reset()">Reset</button></div>`
     }
+}
+
+const no = () => {
+    let profiles = perfiles.filter(perfil => perfil.lugar === 'nnon').slice(0, 25)
+
+    reset(profiles)
 }
