@@ -1,5 +1,5 @@
 console.log({ length: perfiles.length })
-let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 134)
+let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 135)
 console.log({ length: perfiles.length })
 
 const codificar = (entrada) => {
@@ -46,7 +46,7 @@ const reset = (filterProfiles = perfilesMostrar ) => {
                 
                 <br>
                 ${element.rato} - ${element.media} - ${element.hora} <br>
-                ${element.lugar !== 'nnon' ? decodificar(element.lugar) : element.mensaje.substring(0, 100)} <br>
+                ${element.lugar !== 'nnon' ? decodificar(element.lugar) : decodificar(element.mensaje)} <br>
                 ${ codigosHtml.join(' - ')}
                 
             </p>
@@ -105,7 +105,7 @@ const buscar = () => {
                 
                 <br>
                 ${perfil.rato} - ${perfil.media} - ${perfil.hora} <br>
-                ${perfil.lugar !== 'nnon' ? decodificar(perfil.lugar) : perfil?.mensaje?.substring(0, 100)} <br>
+                ${perfil.lugar !== 'nnon' ? decodificar(perfil.lugar) : decodificar(perfil?.mensaje)} <br>
                 ${ codigosHtml.join(' - ')}
                 
             </p>
