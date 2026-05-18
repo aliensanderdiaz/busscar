@@ -1,5 +1,5 @@
 console.log({ length: perfiles.length })
-let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 167)
+let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 175)
 console.log({ length: perfiles.length })
 
 const codificar = (entrada) => {
@@ -114,7 +114,7 @@ const buscar = () => {
 }
 
 const no = () => {
-    let profiles = perfiles.filter(perfil => perfil.lugar === 'nnon').slice(0, 35)
+    let profiles = perfiles.filter(perfil => perfil.lugar === 'nnon').slice(0, 50)
 
     reset(profiles)
 }
