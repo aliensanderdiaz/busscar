@@ -15,6 +15,11 @@ const decodificar = (entrada) => {
 
 const contenedor = document.querySelector('.contenedor')
 
+const reset2 = () => {
+    perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 36)
+    reset()
+}
+
 const reset = (filterProfiles = perfilesMostrar ) => {
 
     let html = ''

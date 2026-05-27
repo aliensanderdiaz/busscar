@@ -54,7 +54,7 @@
             color: white;
             /* Color del texto */
             border: none;
-            padding: 10px 15px;
+            padding: 5px 5px;
             border-radius: 5px;
             /* Esquinas redondeadas */
             cursor: pointer;
@@ -112,18 +112,33 @@
     <header class="main-header">
         <div class="logo"><input type="number" id="inputSearch"></div>
         <button class="header-button" type="button" onclick="no()">❌</button>
-        <button class="header-button" type="button" onclick="reset()">➕</button>
+        <button class="header-button" type="button" onclick="reset2()">➕</button>
         <button class="header-button" type="button" onclick="buscar()">🔍</button>
+        <button class="header-button" id="abrir" type="button" onclick="opciones()">🈷️</button>
     </header>
 
     <div class="contenedor">
 
     </div>
 
+    <dialog id="miVentana">
+        <input type="number" name="cantidad" id="cantidad">
+        <br><br>
+        <button id="cambiarCantidad">cambiarCantidad</button>
+        <br><br>
+        <button id="domicilio">domicilio</button>
+        <br><br>
+        <button id="ordenarPrecioHora">ordenarPrecioHora</button>
+        <br><br>
+        <button id="ordenarSitio">ordenarSitio</button>
+        <br><br>
+    </dialog>
+
 
 
     <script src="script1.js"></script>
     <script src="script2.js"></script>
+    <script src="script3.js"></script>
 </body>
 
 </html>
