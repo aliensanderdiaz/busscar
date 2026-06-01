@@ -344,10 +344,10 @@ let perfiles = [
   },
   {
     "celular": "3n5n0n6n3n1n4n9n6n7n",
-    "rato": 1,
-    "media": 1,
-    "hora": 1,
-    "lugar": "",
+    "rato": 70,
+    "media": 100,
+    "hora": 150,
+    "lugar": "cnansnanbnonnnintnan",
     "codigos": [
       "2n6n5n2n5n8n6n5n",
       "2n6n5n2n5n8n7n2n"
@@ -356,7 +356,7 @@ let perfiles = [
     "images": [
       "2n0n2n6n/n0n5n/n2n9n/nan5n/ncn3nendnanbn7n6nen8nen5nfnen5n8ncn0ndn2ncn3nfn0n6nbn2n6ncn8ncnen.njnpngn"
     ],
-    "mensaje": "nnan"
+    "mensaje": "hnonlnan nanmnonrn nlninnndnon nannndnrnenan nbnenlnlnan ncnonlnonmnbninannnan ndnen n2n4n nanintnonsn ntnen nrnencninbnon nennn nvnensntnindnonsn nyn ntnancnonnnensn nsnenrnvnincninon ninnncnlnunynen"
   },
   {
     "celular": "3n2n0n3n8n9n2n7n3n2n",
