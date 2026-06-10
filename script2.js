@@ -1,5 +1,6 @@
 console.log({ length: perfiles.length })
-let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 24)
+const CANTIDAD_VER = 26
+let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, CANTIDAD_VER)
 // let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 200)
 console.log({ length: perfiles.length })
 
@@ -16,7 +17,7 @@ const decodificar = (entrada) => {
 const contenedor = document.querySelector('.contenedor')
 
 const reset2 = () => {
-    perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 30)
+    perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, CANTIDAD_VER)
     reset()
 }
 
