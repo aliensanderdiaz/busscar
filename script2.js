@@ -1,5 +1,5 @@
 console.log({ length: perfiles.length })
-const CANTIDAD_VER = 43
+const CANTIDAD_VER = 33
 let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, CANTIDAD_VER)
 // let perfilesMostrar = perfiles.filter(perfil => perfil.lugar !== 'nnon').slice(0, 200)
 console.log({ length: perfiles.length })
