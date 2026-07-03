@@ -1,4 +1,4 @@
-const CANTIDAD_VER = 31
+const CANTIDAD_VER = 23
 
 
 
