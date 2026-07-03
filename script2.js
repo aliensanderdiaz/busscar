@@ -1,4 +1,6 @@
-const CANTIDAD_VER = 26
+let perfilesTemp = perfiles.slice(0, final + 1)
+
+const CANTIDAD_VER = perfilesTemp.filter(perfil => perfil.lugar !== 'nnon').length
 
 
 
@@ -125,7 +127,7 @@ const buscar = () => {
 }
 
 const no = () => {
-    let profiles = perfiles.filter(perfil => perfil.lugar === 'nnon').slice(0, 50)
+    let profiles = perfiles.filter(perfil => perfil.lugar === 'nnon').slice(0, final -CANTIDAD_VER)
 
     reset(profiles)
 }
