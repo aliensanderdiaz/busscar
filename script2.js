@@ -1,4 +1,4 @@
-let perfilesTemp = perfiles.slice(0, final + 1)
+let perfilesTemp = perfiles.slice(0, final)
 
 const CANTIDAD_VER = perfilesTemp.filter(perfil => perfil.lugar !== 'nnon').length
 
