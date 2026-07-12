@@ -1,3 +1,3 @@
 // CANTIDAD DE PERFILES EN LA PAGINA COMPARADOR
 
-let final = 56
+let final = 42
