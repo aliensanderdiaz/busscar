@@ -9,7 +9,7 @@ app.innerHTML = perfiles.map((perfil, index) => `
 
         <div class="perfil-info">
             <h2>${ index + 1 } de ${ total } - ${perfil.lugar}</h2>
-            <p>${perfil.detalles}</p>
+            <p>HMR - ${perfil.detalles}</p>
         </div>
 
         <div class="galeria">
