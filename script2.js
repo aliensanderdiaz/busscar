@@ -41,7 +41,7 @@ const reset = (filterProfiles = perfilesMostrar ) => {
         html += `
         <div class="card">
             <div>
-                <img src="${ element.images[0] ? 'https://static1.mileroticos.com/photos/l1/' +  decodificar(element.images[0])  : '' }" width="50"/>
+                <img src="${ element.images[0] ? 'https://static1.mileroticos.com/photos/l1/' +  decodificar(element.images[0])  : '' }" width="150"/>
             </div>
         
             <p> ${index} - 
@@ -101,7 +101,7 @@ const buscar = () => {
         contenedor.innerHTML = `
         <div class="card">
                     <div>
-                <img src="${ perfil.images[0] ? 'https://static1.mileroticos.com/photos/l1/' +  decodificar(perfil.images[0])  : '' }" width="50"/>
+                <img src="${ perfil.images[0] ? 'https://static1.mileroticos.com/photos/l1/' +  decodificar(perfil.images[0])  : '' }" width="150"/>
             </div>
             <p>
                 <a 
