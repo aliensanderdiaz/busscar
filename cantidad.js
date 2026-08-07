@@ -1,3 +1,5 @@
 // CANTIDAD DE PERFILES EN LA PAGINA COMPARADOR
 
-let final = 67
+// Aunque podrian ser menos pero habria que buscar el limite
+
+let final = 65

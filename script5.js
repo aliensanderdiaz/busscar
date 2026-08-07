@@ -17,7 +17,7 @@ app.innerHTML = perfiles.map((perfil, index) => `
                 <div class="card ${ perfil.lugar === 'no' ? 'advertencia':'normal'}">
                 <div class="indice">${item.indice}</div>
                     <a href="https://co.mileroticos.com/escorts/x/${ item.code }" target="_blank">
-                    <img src="https://static1.mileroticos.com/photos/l1/${ item.image}"
+                    <img src="https://static1.mileroticos.com/photos/d/${ item.image}"
                         
                             alt="${perfil.lugar}"
                         ></a>
