@@ -102,3 +102,44 @@ body{
     object-fit:cover;
     display:block;
 }
+
+    /* Botón flotante */
+    .fab {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        width: 60px;
+        height: 60px;
+        border: none;
+        border-radius: 50%;
+        background: #0078d4;
+        color: white;
+        font-size: 28px;
+        cursor: pointer;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        z-index: 1000;
+    }
+
+    /* Contenedor de opciones */
+    .menu-opciones {
+        position: fixed;
+        bottom: 90px;
+        right: 20px;
+        display: none;
+        flex-direction: column;
+        gap: 10px;
+        z-index: 999;
+    }
+
+    .menu-opciones button {
+        padding: 10px 15px;
+        border: none;
+        border-radius: 8px;
+        background: white;
+        cursor: pointer;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+
+    .menu-opciones.show {
+        display: flex;
+    }
