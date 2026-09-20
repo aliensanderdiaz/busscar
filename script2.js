@@ -29,6 +29,8 @@ const reset2 = () => {
 
 const reset = (filterProfiles = perfilesMostrar ) => {
 
+    let total = filterProfiles.length
+
     let html = ''
     let index = 1
     for (const element of filterProfiles) {
@@ -44,7 +46,7 @@ const reset = (filterProfiles = perfilesMostrar ) => {
                 <img src="${ element.images[0] ? 'https://static1.mileroticos.com/photos/l1/' +  decodificar(element.images[0])  : '' }" width="150"/>
             </div>
         
-            <p> ${index} - 
+            <p> ${index} de ${ total } - 
                 <a 
                 href="https://www.google.com/search?q=${decodificar(telefonoMostrar)}" 
                 target="_blank" 
