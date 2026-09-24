@@ -1,5 +1,156 @@
 let perfiles = [
   {
+    "celular": "3n1n1n2n5n5n4n7n1n1n",
+    "rato": 80,
+    "media": 100,
+    "hora": 150,
+    "lugar": "nnon",
+    "codigos": [
+      "2n5n0n1n5n3n1n5n",
+      "2n5n1n4n6n0n7n0n",
+      "2n5n1n7n2n3n4n0n",
+      "2n5n3n9n0n4n6n6n",
+      "2n5n8n7n1n2n0n5n",
+      "2n5n8n9n3n0n4n4n",
+      "2n6n1n3n5n7n6n8n",
+      "2n6n6n1n5n2n2n6n",
+      "2n6n6n2n6n3n1n1n",
+      "2n6n6n5n4n2n3n3n",
+      "2n6n6n5n9n8n4n1n",
+      "2n6n7n1n4n7n3n5n"
+    ],
+    "otrosNumeros": [
+      "3n2n1n2n2n0n2n4n8n6n",
+      "3n2n1n8n5n5n1n6n3n2n"
+    ],
+    "images": [
+      "2n0n2n6n/n0n8n/n2n0n/nen8n/n6n3n6n6ncnbn9n6nbnenen3nbnen1n3n0nfn7n7nen5n0ncndndn9n4ncnencncn.njnpngn",
+      "2n0n2n6n/n0n7n/n2n3n/ndndn/nandn3n8nen0n3n3n8n2n8ndn2n6n1n0nan4ncn4nan5n2n5n7n5n3nenen1n5nfn.njnpngn"
+    ],
+    "mensaje": "gnonrndnan nhnonlnan nsnonyn nnnantnanlninan nsnonlnon ndnonmnincninlninonsn nanmnannnencnindnansn ntnen nonfnrnenzncnon nrnantnon n8n0n nmnendninan n1n0n0n nhnonrnan n1n5n0n ntnen ninnncnlnunynen non"
+  },
+  {
+    "celular": "3n0n0n7n0n0n7n3n5n8n",
+    "rato": 80,
+    "media": 100,
+    "hora": 140,
+    "lugar": "sninnngnanpnunrn",
+    "codigos": [
+      "2n6n2n9n9n9n7n8n",
+      "2n6n5n7n3n7n1n9n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n9n/n1n2n/n6n6n/n6ndn7nan4n9n1n4n7n3n4nfn4nen5ncn4n4n7n2n1n6n8ndnfncn0n7n6nan2nan.njnpngn",
+      "2n0n2n6n/n0n7n/n1n1n/nfn9n/n4nen9n1n6n6nan9n3n1nfnen9nbnfnbn9n6nen1n8n6n0n4nen3n1n2n4n3ncn0n.njnpngn"
+    ],
+    "mensaje": "hnonlnan nanmnonrn nsnonyn nnninknonln nmnuncnhnonsn ngnunsntnon nmninsn nsnenrnvnincninonsn ncnonsntnannn ndnen ntnrnantnon ndnen nnnonvninonsn nbnensnintnonsnsn nanpnansninonnnandnonsn ncnanrnincnin"
+  },
+  {
+    "celular": "3n0n0n7n0n0n6n9n0n6n",
+    "rato": 70,
+    "media": 100,
+    "hora": 130,
+    "lugar": "cnhnanpninnnenrnon",
+    "codigos": [
+      "2n6n2n6n8n9n9n4n",
+      "2n6n2n6n9n0n0n9n",
+      "2n6n2n9n9n9n7n0n",
+      "2n6n4n1n9n7n6n8n",
+      "2n6n5n9n4n0n3n4n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n9n/n1n5n/nan3n/nan5nen7nan7ncn1n4ncn7n7nan3n0n9n8nandnbn2nfnen3n1ncnfnfn9n4n0n2n.njnpngn"
+    ],
+    "mensaje": "hnonlnan nanmnonrn nmnuncnhnonsn ngnunsntnon nmninsn nsnenrnvnincninonsn ncnonsntnannn ndnen ntnrnantnon ndnen nnnonvninonsn nbnensnintnonsnsn nanpnansninonnnandnonsn ncnanrnincninansn nlnansn npnonsn"
+  },
+  {
+    "celular": "3n1n8n1n3n0n6n7n6n1n",
+    "rato": 1,
+    "media": 1,
+    "hora": 1,
+    "lugar": "nnon",
+    "codigos": [
+      "2n6n6n2n7n1n3n9n",
+      "2n6n6n2n7n1n8n7n",
+      "2n6n6n2n8n8n2n6n",
+      "2n6n6n2n8n8n3n3n",
+      "2n6n6n2n8n8n3n7n",
+      "2n6n6n2n9n3n1n4n",
+      "2n6n6n2n9n3n3n1n",
+      "2n6n6n9n6n5n1n9n",
+      "2n6n6n9n6n5n3n0n",
+      "2n6n6n9n8n9n6n6n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n9n/n1n1n/n5n4n/n4n3nan2n7n6n4ncn2n5n8n3nan4nfnbn7n5n0n2ndndndn0nenfn9n4nfnan4n2n.njnpngn",
+      "2n0n2n6n/n0n8n/n0n3n/nen7n/n9n8ncn6n4nfn9ndn5nbn5ncn1nbn5nbnbnen8n7n0n3nen6n2n5nbncn6ncn2n0n.njnpngn",
+      "2n0n2n6n/n0n8n/n0n2n/n7nfn/nbncn9n9nan5nbnfn6n6n7n4n1n2nbn3n5n7n9n5nfn2n3nbndncn8n6n0nfndn6n.njnpngn"
+    ],
+    "mensaje": "fnenan nlnan nhnanbninan nvninsntnon ncnonnn nontnrnon nnnunmnenrnon"
+  },
+  {
+    "celular": "3n1n4n2n6n2n6n5n8n2n",
+    "rato": 1,
+    "media": 1,
+    "hora": 1,
+    "lugar": "nnon",
+    "codigos": [
+      "2n6n6n0n3n7n6n9n",
+      "2n6n6n0n4n1n6n8n",
+      "2n6n6n0n7n4n1n4n",
+      "2n6n6n1n5n4n0n4n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n9n/n1n5n/nanbn/nfnfn3n9n9nen6ncnfnan0n9n3n9nanfnenen9nfn7n3nen3n8n7n1n5ncn6nen9n.njnpngn",
+      "2n0n2n6n/n0n8n/n0n8n/nbn6n/n0n5ndnan8n0n8n1n0ndncnen4n7n7n2n6nfn7n0n5n2n2n4n3n8n5ncn5n2n7nbn.njnpngn"
+    ],
+    "mensaje": "3n7n nannninonsn"
+  },
+  {
+    "celular": "3n2n1n3n4n6n3n7n2n2n",
+    "rato": 0,
+    "media": 0,
+    "hora": 0,
+    "lugar": "nnon",
+    "codigos": [
+      "2n4n5n9n5n8n7n9n",
+      "2n4n6n4n2n1n5n3n",
+      "2n5n1n4n8n4n3n2n",
+      "2n5n1n5n8n0n9n8n",
+      "2n5n1n7n0n5n8n4n",
+      "2n5n2n5n9n2n3n7n",
+      "2n5n4n6n4n0n6n1n",
+      "2n5n4n7n2n7n0n7n",
+      "2n5n4n9n9n1n9n7n",
+      "2n5n5n2n2n2n8n5n",
+      "2n5n6n0n5n9n7n2n",
+      "2n5n6n6n5n1n9n8n",
+      "2n5n6n7n3n5n9n2n",
+      "2n5n7n4n3n1n7n3n",
+      "2n5n7n4n3n1n7n7n",
+      "2n5n8n6n3n0n6n0n",
+      "2n5n8n7n2n5n6n3n",
+      "2n5n9n3n3n4n8n3n",
+      "2n5n9n3n3n5n0n1n",
+      "2n5n9n3n3n5n1n8n",
+      "2n6n0n4n6n2n3n4n",
+      "2n6n3n5n8n2n8n6n",
+      "2n6n6n7n4n9n2n5n"
+    ],
+    "otrosNumeros": [
+      "3n0n2n5n9n8n4n1n3n1n"
+    ],
+    "images": [
+      "2n0n2n6n/n0n8n/n2n9n/ncn1n/n8n1n5nanen3n8ndnbn6ndnen6n9n8n0ndnandnancnen3n1n2nbn0n8nen0nen5n.njnpngn",
+      "2n0n2n6n/n0n2n/n2n1n/n2n9n/n6n2nan8n7n1n5nbn8nfn9n5ncn9nfndn3n3nfn5n8n0ndn5n6n0nen5n0nen1nen.njnpngn"
+    ],
+    "mensaje": "dnunlncnen npnencnandnon"
+  },
+  {
     "celular": "3n0n1n7n6n7n1n6n0n4n",
     "rato": 60,
     "media": 80,
@@ -32,254 +183,52 @@ let perfiles = [
     "mensaje": "sninnngnanpnunrn ncnanrnan ndnen nvninenjnan nenln nmnenjnonrn nsnenxnon ncnonnn nlnunjnunrninan npnlnancnenrn npnansninnn nyn nmnonrnbnon ndnenlnincninonsnon nonrnanln nbnaninlnen nenrntnincnon nlnan"
   },
   {
-    "celular": "3n1n8n3n5n1n5n8n2n3n",
+    "celular": "3n1n1n6n5n2n7n3n0n4n",
     "rato": 80,
     "media": 100,
-    "hora": 150,
-    "lugar": "sninnngnanpnunrn",
+    "hora": 160,
+    "lugar": "cnanmnpnonnnunenzn",
     "codigos": [
-      "2n6n4n4n5n4n7n5n",
-      "2n6n4n4n9n3n8n4n",
-      "2n6n4n5n1n4n3n1n",
-      "2n6n4n7n5n3n3n4n",
-      "2n6n4n8n2n6n5n1n",
-      "2n6n4n9n0n0n1n9n",
-      "2n6n4n9n2n1n6n6n",
-      "2n6n5n0n7n0n4n6n",
-      "2n6n5n5n0n0n8n9n",
-      "2n6n5n5n0n1n0n1n",
-      "2n6n5n5n0n1n2n1n",
-      "2n6n5n6n1n9n8n3n",
-      "2n6n6n8n6n0n4n4n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n6n/n0n6n/n1n2n/n0n7n/n9n7n2n7nbn8nen6n3ndnbn0n5nfn5n0nen0nenfn0n7n0n9ndn1n7n2n9n5n0n7n.njnpngn"
-    ],
-    "mensaje": "hnonlnan ncnanrninon nsnonyn nsnhnanrnlnontn nunnnan nfnlnancnan ndnen n2n4n nanonsn ndnen npninenln nbnlnannncnan nsnennnonsn npnenqnunenonsn nyn nunnnansn nnnanlngnansn nnnantnunrnanlnensn ninnngnrn"
-  },
-  {
-    "celular": "3n0n0n7n0n0n6n9n0n6n",
-    "rato": 70,
-    "media": 100,
-    "hora": 130,
-    "lugar": "cnhnanpninnnenrnon",
-    "codigos": [
-      "2n6n2n6n8n9n9n4n",
-      "2n6n2n6n9n0n0n9n",
-      "2n6n2n9n9n9n7n0n",
-      "2n6n4n1n9n7n6n8n",
-      "2n6n5n9n4n0n3n4n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n6n/n0n9n/n1n5n/nan3n/nan5nen7nan7ncn1n4ncn7n7nan3n0n9n8nandnbn2nfnen3n1ncnfnfn9n4n0n2n.njnpngn"
-    ],
-    "mensaje": "hnonlnan nanmnonrn nmnuncnhnonsn ngnunsntnon nmninsn nsnenrnvnincninonsn ncnonsntnannn ndnen ntnrnantnon ndnen nnnonvninonsn nbnensnintnonsnsn nanpnansninonnnandnonsn ncnanrnincninansn nlnansn npnonsn"
-  },
-  {
-    "celular": "3n1n3n6n1n9n4n0n0n1n",
-    "rato": 70,
-    "media": 90,
-    "hora": 150,
-    "lugar": "cnonnncnhnan",
-    "codigos": [
-      "2n6n5n9n7n8n2n3n",
-      "2n6n6n6n8n8n7n5n",
-      "2n6n6n6n8n8n9n5n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n6n/n0n7n/n2n5n/n0n9n/n7n2n7n3ndnen8n1n1n7nan5nan2n7n6n5ncncnancn5nen6n8nen0ndnen9nfnen.njnpngn"
-    ],
-    "mensaje": "hnonlnan nanmnonrn nmnuncnhnon ngnunsntnon nmnen nlnlnanmnon nsnanrnan nunnnan nmnonrnennnintnan ndnen npnenlnon nlnanrngnon nanlntnan nendnandn n2n5nanonsn nfnonlninon ndnenln nsnenrnvnincninon nsnen"
-  },
-  {
-    "celular": "3n0n0n9n7n4n0n3n8n6n",
-    "rato": 60,
-    "media": 80,
-    "hora": 140,
-    "lugar": "bnungnannnvninlnensn",
-    "codigos": [
-      "2n4n6n1n7n6n3n1n",
-      "2n4n7n4n6n1n1n8n"
+      "2n5n4n3n0n3n9n6n",
+      "2n5n9n4n7n8n8n3n",
+      "2n6n0n2n8n3n1n7n",
+      "2n6n0n3n9n3n3n4n",
+      "2n6n2n2n2n4n3n2n",
+      "2n6n2n2n7n0n8n2n",
+      "2n6n4n9n8n4n7n0n",
+      "2n6n5n3n9n3n8n6n"
     ],
     "otrosNumeros": [
-      "3n0n0n9n7n4n0n5n0n3n",
-      "3n0n1n4n9n0n7n5n0n3n"
+      "3n0n0n1n5n1n2n5n5n9n",
+      "3n0n0n9n8n4n6n2n9n2n",
+      "3n0n2n2n9n8n5n1n9n9n",
+      "3n0n2n3n0n1n1n3n7n8n",
+      "3n1n1n4n5n2n2n7n6n7n",
+      "3n0n0n8n8n2n4n7n2n1n",
+      "3n1n1n8n0n6n5n2n2n0n"
     ],
     "images": [
-      "2n0n2n3n/n1n0n/n2n5n/n8n4n/n8ndn8n4n7nbn8n8n9n1nan6nbn2ndn4n2n1n1nbnbn0nencn1nfnendn0nfn9n6n.njnpngn"
+      "2n0n2n6n/n0n6n/n0n6n/n6n9n/ndn9ndn0n8n1nendnbn0n5nbn9n6n7n3ncnenan2n2n5nfn1n0n0n2nbn4nfn7n5n.njnpngn"
     ],
-    "mensaje": "hnonlnan nanmnonrnennn nmninsn nsnenrnvnincninonsn ntnen nonfnrnenzncnon nunnn ndnenlnincninonsnon ntnrnantnon nmnansnanjnen nrnenlnanjnannntnen nbnensnintnonsn nrnincnansn ncnanrnincninansn nonrnanln"
+    "mensaje": "hnonlnan ncnanbnanlnlnenrnon nsnonyn nbnanrnbninen ncnmnon nensntnansn nensntnonsn nsnonnn nanlngnunnnonsn ndnen nmninsn nsnenrnvnincninonsn8n0nkn nunnn nrnantnincnon n2n0n nmninnnuntnonsnbninennn nrn"
   },
   {
-    "celular": "3n5n0n6n0n8n9n5n3n3n",
-    "rato": 80,
-    "media": 120,
-    "hora": 160,
-    "lugar": "cnhnanpninnnenrnon",
-    "codigos": [
-      "2n5n7n6n1n8n8n2n",
-      "2n5n7n7n4n6n0n6n",
-      "2n5n7n7n8n3n7n2n",
-      "2n6n1n0n9n0n6n3n",
-      "2n6n1n8n7n4n4n0n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n5n/n0n8n/n2n9n/nfn1n/nanbnen4n9ndn7nfn7n5nen5ndncncn4n6n9nfn7nbn0n5nbn1nbn1n0n0nen4nan.njnpngn"
-    ],
-    "mensaje": "mnenlnannninenvnenlnenzn1n9n nhnonlnan nmnin nanmnonrn nensnpnenrnon nqnunen nensntnen nmnunyn nbninennn nmnen nlnlnanmnon nmnenlnannninen ntnennngnon n1n9n nanonsn nmnindnon n1n5n0n ncnrnensnpnintnan"
-  },
-  {
-    "celular": "3n2n0n9n8n4n8n3n5n3n",
-    "rato": 80,
-    "media": 120,
-    "hora": 180,
-    "lugar": "cnonlnonnninanln",
-    "codigos": [
-      "2n5n7n6n0n6n7n3n",
-      "2n5n7n6n0n9n1n3n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n6n/n0n9n/n2n1n/nan4n/nbnan1n5n0ndnfnbndn7nfn9ncncn7n5n0nfn7n5nfnbn0n9n8n5n9nen3n4n8n4n.njnpngn",
-      "2n0n2n6n/n0n9n/n2n0n/nan5n/n9nencn8n9ndncn9n4n5nan2n9n6n5n7nan4n4n3nfnen4nenan7n9n2n5n5n2n9n.njnpngn"
-    ],
-    "mensaje": "pnrnencninonsn nfninjnonsn nhnonlnan nmnin nanmnonrn nnnunenvnan nennn ntnun ncninundnandn ntnennngnon n2n0n nanintnonsn nmnindnon n1n5n7n nsnonlnon nhnonmnbnrnensn ndnen nbnunennn npnanlnandnanrn nmn"
-  },
-  {
-    "celular": "3n1n1n2n5n5n4n7n1n1n",
-    "rato": 80,
-    "media": 100,
-    "hora": 150,
+    "celular": "3n2n0n2n2n6n4n7n7n8n",
+    "rato": 1,
+    "media": 80,
+    "hora": 100,
     "lugar": "nnon",
     "codigos": [
-      "2n5n0n1n5n3n1n5n",
-      "2n5n1n4n6n0n7n0n",
-      "2n5n1n7n2n3n4n0n",
-      "2n5n3n9n0n4n6n6n",
-      "2n5n8n7n1n2n0n5n",
-      "2n5n8n9n3n0n4n4n",
-      "2n6n1n3n5n7n6n8n",
-      "2n6n6n1n5n2n2n6n",
-      "2n6n6n2n6n3n1n1n",
-      "2n6n6n5n4n2n3n3n",
-      "2n6n6n5n9n8n4n1n",
-      "2n6n7n1n4n7n3n5n"
+      "2n6n0n9n5n3n8n1n",
+      "2n6n2n9n4n6n6n0n"
     ],
     "otrosNumeros": [
-      "3n2n1n2n2n0n2n4n8n6n",
-      "3n2n1n8n5n5n1n6n3n2n"
+      "3n2n3n5n0n6n8n9n9n0n"
     ],
     "images": [
-      "2n0n2n6n/n0n8n/n2n0n/nen8n/n6n3n6n6ncnbn9n6nbnenen3nbnen1n3n0nfn7n7nen5n0ncndndn9n4ncnencncn.njnpngn",
-      "2n0n2n6n/n0n7n/n2n3n/ndndn/nandn3n8nen0n3n3n8n2n8ndn2n6n1n0nan4ncn4nan5n2n5n7n5n3nenen1n5nfn.njnpngn"
+      "2n0n2n6n/n0n5n/n1n5n/n3n7n/n2n2n0n8n9n9ncn4n1nan4n8n7nen9nfndncnbn2n4n8n0n2n7n6n4nbn9n3nen0n.njnpngn"
     ],
-    "mensaje": "gnonrndnan nhnonlnan nsnonyn nnnantnanlninan nsnonlnon ndnonmnincninlninonsn nanmnannnencnindnansn ntnen nonfnrnenzncnon nrnantnon n8n0n nmnendninan n1n0n0n nhnonrnan n1n5n0n ntnen ninnncnlnunynen non"
-  },
-  {
-    "celular": "3n2n2n2n2n5n0n4n9n3n",
-    "rato": 60,
-    "media": 90,
-    "hora": 150,
-    "lugar": "sninnngnanpnunrn",
-    "codigos": [
-      "2n5n5n1n2n2n7n8n",
-      "2n5n5n7n1n8n7n0n",
-      "2n5n7n5n6n1n0n6n",
-      "2n5n8n8n3n3n9n4n",
-      "2n6n0n3n9n5n1n3n",
-      "2n6n0n3n9n5n4n3n",
-      "2n6n2n5n1n0n8n8n",
-      "2n6n3n6n0n8n4n8n",
-      "2n6n3n6n0n8n6n6n",
-      "2n6n5n1n5n8n5n3n",
-      "2n6n5n1n6n5n4n8n",
-      "2n6n5n3n8n7n5n0n",
-      "2n6n5n4n4n2n8n1n",
-      "2n6n5n4n9n2n0n9n",
-      "2n6n6n0n4n3n4n6n",
-      "2n6n6n0n4n4n6n6n",
-      "2n6n6n6n7n7n9n6n"
-    ],
-    "otrosNumeros": [
-      "3n2n2n2n2n4n9n4n2n6n",
-      "3n2n0n7n5n1n4n2n7n5n",
-      "3n2n1n2n5n3n2n3n0n1n"
-    ],
-    "images": [
-      "2n0n2n5n/n0n8n/n1n6n/nfn8n/ndn0nan7n4nan9n5n7n4n5nfnfnbnbnancn7n9nendnendn0n0nencn4nan8nbn2n.njnpngn",
-      "2n0n2n6n/n0n7n/n1n8n/n2n9n/n3n6nfn7n6n0n0n2nfn5n5ncn0n0n7n2n7n4ndnfn7n2nbn2ndnan1n4n8n7n2nen.njnpngn"
-    ],
-    "mensaje": "hnonlnan nanmnonrn nmnen nlnlnanmn nlnunnnan nsnonyn nunnnan nhnenrnmnonsnan nnninan ndnen n2n0n nanonsn nqnunen nvninennnen nan nonfnrnencnenrntnen nsnunsn nsnenrnvnincninonsn npnanrnan nqnunen nlnan"
-  },
-  {
-    "celular": "3n0n0n7n0n0n7n3n5n8n",
-    "rato": 80,
-    "media": 100,
-    "hora": 140,
-    "lugar": "sninnngnanpnunrn",
-    "codigos": [
-      "2n6n2n9n9n9n7n8n",
-      "2n6n5n7n3n7n1n9n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n6n/n0n9n/n1n2n/n6n6n/n6ndn7nan4n9n1n4n7n3n4nfn4nen5ncn4n4n7n2n1n6n8ndnfncn0n7n6nan2nan.njnpngn",
-      "2n0n2n6n/n0n7n/n1n1n/nfn9n/n4nen9n1n6n6nan9n3n1nfnen9nbnfnbn9n6nen1n8n6n0n4nen3n1n2n4n3ncn0n.njnpngn"
-    ],
-    "mensaje": "hnonlnan nanmnonrn nsnonyn nnninknonln nmnuncnhnonsn ngnunsntnon nmninsn nsnenrnvnincninonsn ncnonsntnannn ndnen ntnrnantnon ndnen nnnonvninonsn nbnensnintnonsnsn nanpnansninonnnandnonsn ncnanrnincnin"
-  },
-  {
-    "celular": "3n2n1n2n3n4n4n6n4n3n",
-    "rato": 60,
-    "media": 80,
-    "hora": 130,
-    "lugar": "cnonlnonnninanln",
-    "codigos": [
-      "2n3n4n5n9n6n6n0n",
-      "2n3n4n6n8n5n8n5n",
-      "2n3n5n6n5n3n7n3n",
-      "2n3n7n3n7n1n6n8n",
-      "2n3n9n1n3n9n3n7n",
-      "2n4n4n5n8n6n2n2n",
-      "2n4n5n4n3n4n7n8n",
-      "2n4n5n5n5n3n9n5n",
-      "2n4n9n1n1n5n3n0n",
-      "2n4n9n1n5n2n4n2n",
-      "2n5n1n0n2n2n3n9n",
-      "2n5n1n6n2n2n6n5n",
-      "2n5n4n9n3n0n0n5n",
-      "2n5n5n9n8n9n2n6n",
-      "2n5n5n9n9n3n3n2n",
-      "2n5n5n9n9n3n5n3n",
-      "2n5n6n4n8n4n9n3n",
-      "2n5n6n4n8n5n8n6n",
-      "2n5n8n1n4n2n8n9n",
-      "2n6n0n0n1n9n1n6n",
-      "2n6n0n0n1n9n6n1n",
-      "2n6n0n0n2n3n8n5n",
-      "2n6n0n0n2n4n1n1n",
-      "2n6n0n0n6n1n8n4n",
-      "2n6n3n7n3n9n0n3n",
-      "2n6n3n7n4n0n7n7n",
-      "2n6n3n7n4n1n4n5n",
-      "2n6n3n7n4n1n7n9n"
-    ],
-    "otrosNumeros": [
-      "3n1n4n2n2n5n5n8n7n7n",
-      "3n0n4n6n3n9n8n5n7n2n",
-      "3n0n1n6n6n0n2n5n4n1n",
-      "3n0n1n9n0n0n2n2n7n2n",
-      "3n0n0n9n0n7n9n0n2n3n"
-    ],
-    "images": [
-      "2n0n2n6n/n0n3n/n0n5n/n8n4n/n2ndnfn0nbn8n9ncn2n4n4n8ndn1n0nan0n7n9n6n8n0ncn4n1n3n9nbn8n5n8ncn.njnpngn",
-      "2n0n2n6n/n0n3n/n0n3n/ndn2n/nfnanan0n9nbnbn7n9n1ncn9n5n8ndn9n1n1n0n7n1ndnbnendn9ncn2n2n7n7n2n.njnpngn"
-    ],
-    "mensaje": "tnenlnengnrnanmn nhnonlnan ncnonrnanznnn nsnonyn nsnanmnannntnhnan ndnen nnnancninonnnanlnindnandn nvnennnenznonlnannnananmnonrn nmnin nsnenrnvnincninon ncnunennntnan ncnonnn nunnn nrnincnon ntnrnantn"
+    "mensaje": "cnansnanbnonnnintnan nnnon nsnen nvnen nbnonnnintnan ntnennngnon nsnintninonsnonlnon nandnmnincninlninonmnendninan nhnonrnan n8n0n n1n nrnenlnancninonnn nonrnanln nanln nnnantnunrnanln nvnangninnnanln"
   },
   {
     "celular": "3n2n3n7n4n1n2n6n3n0n",
@@ -344,65 +293,236 @@ let perfiles = [
     "mensaje": "snen nvnen nfnenan ncnannndnindnon ndnonmnincninlninon nhnonlnan nanmnonrn nbnunennnansn ntnanrndnensn nsnonyn nannnnnyn ntnennngnon n2n2n nanonsn nsnonyn ndnen nlnan ncninundnandn ndnen nbnanrnrnannn"
   },
   {
-    "celular": "3n1n8n5n2n9n9n1n8n5n",
-    "rato": 60,
-    "media": 80,
-    "hora": 130,
-    "lugar": "pnennntnhnonunsnen",
+    "celular": "3n5n0n6n0n8n9n5n3n3n",
+    "rato": 80,
+    "media": 120,
+    "hora": 160,
+    "lugar": "cnhnanpninnnenrnon",
     "codigos": [
-      "2n6n7n0n9n6n5n5n",
-      "2n6n7n0n9n6n8n3n",
-      "2n6n7n0n9n9n2n6n"
+      "2n5n7n6n1n8n8n2n",
+      "2n5n7n7n4n6n0n6n",
+      "2n5n7n7n8n3n7n2n",
+      "2n6n1n0n9n0n6n3n",
+      "2n6n1n8n7n4n4n0n"
     ],
     "otrosNumeros": [],
     "images": [
-      "2n0n2n6n/n0n9n/n1n8n/ndnfn/ndnanan2n9nan1n4n6n4n2n1ncnfn7n5n8n9n0n0n1n3n1n4nbn4n0n7n1n8n6nen.njnpngn"
+      "2n0n2n5n/n0n8n/n2n9n/nfn1n/nanbnen4n9ndn7nfn7n5nen5ndncncn4n6n9nfn7nbn0n5nbn1nbn1n0n0nen4nan.njnpngn"
     ],
-    "mensaje": "hnonlnan ncnonmnon nensntnansn nmnin nnnonmnbnrnen nensn nvnanlnennntninnnan nyn ntnennngnon n2n4n nanonsn nyn nensntnonyn nmnunyn nfnenlninzn ndnen ntnennnenrntnen nanqnun nmninsn ntnanrninfnansn nhn"
+    "mensaje": "mnenlnannninenvnenlnenzn1n9n nhnonlnan nmnin nanmnonrn nensnpnenrnon nqnunen nensntnen nmnunyn nbninennn nmnen nlnlnanmnon nmnenlnannninen ntnennngnon n1n9n nanonsn nmnindnon n1n5n0n ncnrnensnpnintnan"
   },
   {
-    "celular": "3n1n8n1n3n0n6n7n6n1n",
-    "rato": 1,
-    "media": 1,
-    "hora": 1,
+    "celular": "3n2n0n9n7n3n9n1n2n0n",
+    "rato": 0,
+    "media": 0,
+    "hora": 0,
     "lugar": "nnon",
     "codigos": [
-      "2n6n6n2n7n1n3n9n",
-      "2n6n6n2n7n1n8n7n",
-      "2n6n6n2n8n8n2n6n",
-      "2n6n6n2n8n8n3n3n",
-      "2n6n6n2n8n8n3n7n",
-      "2n6n6n2n9n3n1n4n",
-      "2n6n6n2n9n3n3n1n",
-      "2n6n6n9n6n5n1n9n",
-      "2n6n6n9n6n5n3n0n",
-      "2n6n6n9n8n9n6n6n"
+      "2n6n1n0n1n6n4n1n",
+      "2n6n1n0n1n7n1n1n",
+      "2n6n1n2n4n8n5n8n",
+      "2n6n1n5n5n8n0n6n",
+      "2n6n3n5n8n0n7n4n",
+      "2n6n5n7n8n4n8n2n",
+      "2n6n5n8n3n3n3n7n"
+    ],
+    "otrosNumeros": [
+      "3n2n2n3n9n9n5n4n8n4n"
+    ],
+    "images": [
+      "2n0n2n6n/n0n7n/n0n2n/ncn0n/n4n9nbnanfn6n7n2nan6ncnenan2n2nenfn9n0n8nfn3nan0n5n5n3nen2n3nenbn.njnpngn",
+      "2n0n2n5n/n1n0n/n0n5n/n8nbn/nbn7n8nendnan2nan7nbn7n7ndn6n2ncn8nfnan7n6nbndnan7nanen4ndn4n2n7n.njnpngn"
+    ],
+    "mensaje": "tnantninsn nensnan nfnenan nqnunen npnanrnencnen ntnrnanvnensntnin"
+  },
+  {
+    "celular": "3n2n0n6n7n0n0n3n6n1n",
+    "rato": 60,
+    "media": 90,
+    "hora": 140,
+    "lugar": "cnansnanbnonnnintnan",
+    "codigos": [
+      "2n6n6n4n2n8n7n4n",
+      "2n6n6n4n2n8n8n8n",
+      "2n6n6n4n2n9n1n5n",
+      "2n6n6n6n2n1n7n9n"
     ],
     "otrosNumeros": [],
     "images": [
-      "2n0n2n6n/n0n9n/n1n1n/n5n4n/n4n3nan2n7n6n4ncn2n5n8n3nan4nfnbn7n5n0n2ndndndn0nenfn9n4nfnan4n2n.njnpngn",
-      "2n0n2n6n/n0n8n/n0n3n/nen7n/n9n8ncn6n4nfn9ndn5nbn5ncn1nbn5nbnbnen8n7n0n3nen6n2n5nbncn6ncn2n0n.njnpngn",
-      "2n0n2n6n/n0n8n/n0n2n/n7nfn/nbncn9n9nan5nbnfn6n6n7n4n1n2nbn3n5n7n9n5nfn2n3nbndncn8n6n0nfndn6n.njnpngn"
+      "2n0n2n6n/n0n8n/n1n0n/n7ncn/n0n6n5n1nbnfn4n6n9n0n8n1n0nbn0n0n6n7nan4n2n3n6n4n9n8ncn0n5n4n5n4n.njnpngn"
     ],
-    "mensaje": "fnenan nlnan nhnanbninan nvninsntnon ncnonnn nontnrnon nnnunmnenrnon"
+    "mensaje": "hnonlnan nanmnonrn nsnonyn ngninnnan nunnnan nhnenrnmnonsnan ncnrnensnpnan ndninvnenrntnindnan ncnanlninennntnen ncnanrninonsnan nyn nmnunyn ncnonmnpnlnancninennntnen nmninsn nsnenrnvnincninonsn ninnn"
   },
   {
-    "celular": "3n1n1n2n5n3n4n4n0n2n",
-    "rato": 1,
-    "media": 80,
-    "hora": 170,
-    "lugar": "pnennntnhnonunsnen",
+    "celular": "3n2n1n2n3n1n3n7n2n2n",
+    "rato": 80,
+    "media": 110,
+    "hora": 200,
+    "lugar": "hnonmnencnennntnenrn",
     "codigos": [
-      "2n1n3n5n0n4n6n2n",
-      "2n6n0n7n1n7n2n9n"
+      "2n3n8n3n3n7n1n1n",
+      "2n4n0n9n3n7n2n5n",
+      "2n4n9n6n2n1n6n5n",
+      "2n5n0n7n6n6n1n4n",
+      "2n5n0n7n9n6n5n8n",
+      "2n5n0n9n6n8n6n8n",
+      "2n5n1n2n4n8n6n5n",
+      "2n5n5n0n3n0n3n3n",
+      "2n5n5n0n3n7n2n6n",
+      "2n5n5n3n9n6n0n8n",
+      "2n5n7n1n2n3n3n8n",
+      "2n5n7n1n2n3n7n1n",
+      "2n5n7n6n2n6n8n5n",
+      "2n5n7n7n1n8n4n4n",
+      "2n5n7n7n4n3n8n2n",
+      "2n5n8n3n5n1n2n1n",
+      "2n5n8n3n5n1n3n4n",
+      "2n6n1n5n5n8n3n5n",
+      "2n6n1n5n5n8n5n8n",
+      "2n6n1n6n6n1n8n3n",
+      "2n6n1n6n6n1n9n5n",
+      "2n6n2n1n5n6n7n5n",
+      "2n6n3n2n7n8n4n2n",
+      "2n6n6n3n3n0n8n0n"
     ],
     "otrosNumeros": [
-      "3n0n1n8n6n0n0n8n6n3n"
+      "3n1n4n5n7n8n5n9n8n1n1n",
+      "3n0n2n5n9n4n4n6n0n1n"
     ],
     "images": [
-      "2n0n2n5n/n0n9n/n0n4n/n7n9n/n0n1n0nan2n9n1n2nenbncn1n8nan3nbnanan8ndn2n9nan0n3n6n2n2nfndn9ncn.njnpngn"
+      "2n0n2n5n/n1n1n/n2n3n/n5n0n/nenbn3nan1ndnan0n8nen1n4n1n6n2n6n7n8n2n1n0nbnbnan3ndn8n7nen0n1n9n.njnpngn"
     ],
-    "mensaje": "lnuncninannnan njnanrnanmninlnlnoninnnfnonrnmnancninnn ndnen nmnin nsnenrnvnincninon ngnrnancninansn npnonrn nensncnrninbninrntnen nrnencninbnon nennn nunnnan nlninnndnan nlnennncnenrnantnancnonnnensn"
+    "mensaje": "snonyn nunnnan nhnenrnmnonsnan nmnen nlnlnanmnon nnninknonln nensncnonrntnsn nancnonmnpnanannntnen njnonvnennn nsnenxnin nyn nmnunyn ncnonmnpnlnancninennntnen nmnin nmninrnandnan nensn ntnannn ninnnon"
+  },
+  {
+    "celular": "3n2n4n6n4n9n2n8n9n5n",
+    "rato": 70,
+    "media": 90,
+    "hora": 140,
+    "lugar": "sninnngnanpnunrn",
+    "codigos": [
+      "2n2n4n4n5n4n3n4n",
+      "2n2n4n7n5n4n4n3n",
+      "2n3n5n8n5n5n2n6n",
+      "2n4n1n9n7n7n0n5n",
+      "2n4n1n9n7n7n5n3n",
+      "2n4n5n3n4n7n1n8n",
+      "2n4n6n6n9n2n3n0n",
+      "2n5n0n1n2n5n1n9n",
+      "2n5n0n1n2n8n2n1n",
+      "2n5n0n1n2n9n3n0n"
+    ],
+    "otrosNumeros": [
+      "3n0n4n5n2n5n7n0n2n1n",
+      "3n2n2n3n6n1n3n7n0n9n",
+      "3n1n1n8n6n2n6n8n7n2n"
+    ],
+    "images": [],
+    "mensaje": "hnonlnan nanmnonrn ncnmnon nensntnsn nsnonyn ngnanbnyn nmninsn nsnenrnvnincninonsn nsnonnn nhnonrnan n1n4n0n nsnenxnon nonrnanln nyn nvnangninnnanln ncnonnn npnrnensnenrnvnantninvnonsn nmnendninan n9n"
+  },
+  {
+    "celular": "3n1n6n9n2n8n3n3n4n6n",
+    "rato": 80,
+    "media": 100,
+    "hora": 150,
+    "lugar": "sninnngnanpnunrn",
+    "codigos": [
+      "2n6n6n4n5n7n1n9n",
+      "2n6n6n4n5n9n5n1n",
+      "2n6n7n0n2n0n0n2n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n8n/n1n2n/n0nfn/ncn6nen2n1n0n1n4nfnbn5n1n3n4nfn4nen4n1ncn1n9nfn0n1n4nbn6n8n3nan9n.njnpngn"
+    ],
+    "mensaje": "hnonlnan nanmnonrn nsnonyn nannntnonnnenlnlnanhnenrnmnonsnan nmnonrnennnan ndnen nsnennnonsn ngnrnannndnensn nyn ncnunrnvnansn nsnenxnynsn nyn nsnonnnrninsnan nennncnannntnandnonrnanvnennn nyn npnansn"
+  },
+  {
+    "celular": "3n1n0n2n5n5n4n9n0n2n",
+    "rato": 70,
+    "media": 100,
+    "hora": 150,
+    "lugar": "pnennntnhnonunsnen",
+    "codigos": [
+      "2n5n6n4n5n2n7n0n",
+      "2n5n6n4n5n3n8n3n",
+      "2n5n6n4n5n5n2n8n",
+      "2n5n7n1n0n5n5n0n",
+      "2n5n7n4n2n2n9n9n",
+      "2n6n4n9n9n8n0n3n",
+      "2n6n5n2n0n5n8n4n",
+      "2n6n5n2n0n5n9n6n",
+      "2n6n5n6n2n7n9n5n",
+      "2n6n5n7n4n5n8n0n",
+      "2n6n5n7n4n5n8n8n",
+      "2n6n5n7n4n5n9n9n"
+    ],
+    "otrosNumeros": [
+      "3n1n8n9n5n4n0n3n7n3n",
+      "3n2n1n9n2n9n3n4n4n3n",
+      "3n1n5n0n7n4n4n2n4n0n"
+    ],
+    "images": [
+      "2n0n2n6n/n0n5n/n1n2n/n2n9n/n3n0n3nancn5n3n6n7nan3n7n6nfn6n3n0nfn4n6n1n3n9n8ndn1nan8n6n5n5n5n.njnpngn"
+    ],
+    "mensaje": "hnonlnan nanmnonrn nlninnndnon nbninennnvnennnindnon nsnonyn nvnannnensnan nunnnan nhnenrnmnonsnan ncnhnincnan ndnen n2n0n nanintnonsn nmninsn nsnenrnvnincninonsn nsnonnnrnantnon7n0nmnendninan1n0n0nhn"
+  },
+  {
+    "celular": "3n2n1n8n2n7n7n4n2n2n",
+    "rato": 60,
+    "media": 100,
+    "hora": 140,
+    "lugar": "sninnngnanpnunrn",
+    "codigos": [
+      "2n5n9n3n7n4n3n4n",
+      "2n5n9n5n7n1n1n4n",
+      "2n5n9n5n7n7n5n4n",
+      "2n5n9n6n3n9n9n5n",
+      "2n5n9n8n1n3n2n3n",
+      "2n6n0n2n8n9n6n7n",
+      "2n6n1n3n3n7n8n5n",
+      "2n6n1n3n6n1n9n2n",
+      "2n6n1n3n6n2n2n6n",
+      "2n6n1n3n6n2n9n3n",
+      "2n6n1n6n9n6n4n0n",
+      "2n6n1n8n7n1n6n0n",
+      "2n6n1n8n7n3n2n0n",
+      "2n6n2n7n3n7n6n5n",
+      "2n6n3n4n4n2n3n1n",
+      "2n6n3n4n4n7n1n7n",
+      "2n6n5n1n6n2n1n3n",
+      "2n6n5n5n1n3n5n0n",
+      "2n6n5n5n1n7n0n3n",
+      "2n6n5n5n2n2n2n3n",
+      "2n6n5n5n2n2n3n4n",
+      "2n6n5n7n2n7n9n9n",
+      "2n6n7n0n2n2n1n7n",
+      "2n6n7n0n2n5n9n7n",
+      "2n6n7n0n3n1n0n4n",
+      "2n6n7n0n8n3n5n4n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n5n/n1n0n/n2n9n/n7n6n/n4n0nan5n1nenan5n5n7nfnan3n2n8n3ndn2n1nfn6n8nen6ncn1n8nencn1n5n3n.njnpngn"
+    ],
+    "mensaje": "lnenyndnin npnenlninnnengnrnan npnanrnan nhnonmnbnrnen ndnen nbnunennn ngnunsntnonsnenxnyn ndnensncnonmnpnlnincnandnan ncnonmnon nlnan ndnencnenanbnansn nmnin nbnenbnen nrnantnon n6n0nmninln n1n0n0n n"
+  },
+  {
+    "celular": "3n0n0n5n2n1n4n1n4n0n",
+    "rato": 80,
+    "media": 100,
+    "hora": 150,
+    "lugar": "cnhnanpninnnenrnon",
+    "codigos": [
+      "2n6n5n4n4n4n4n3n",
+      "2n6n5n9n0n7n5n2n",
+      "2n6n5n9n2n7n6n2n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n9n/n2n1n/n8nen/nfnfnen2ncndn6nen7nbnan4n4ncnenan1n7n0nbnbn4n8nbndnen2n0ncn4n8n1n.njnpngn"
+    ],
+    "mensaje": "anmnonrn nbninennnvnennnindnon nan nmnin nensnpnancninon ntnen nonfnrnenzncnon nrnenlnancninonnnensn ninlninmnintnandnansn nennn nenln ntninenmnpnon npnancntnandnon nbnensnintnonsn ncnanrnincninansn n"
   },
   {
     "celular": "3n1n2n8n4n4n8n2n3n7n",
@@ -426,52 +546,301 @@ let perfiles = [
     "mensaje": "hnonlnan ndninsnpnonnninbnlnen nanmnonrn nsnonyn nmnanrninannnan ndninsnfnuntnan ncnonnn nmningnon ndnenln nmnansn nrnincnon ntnrnantnon nsninnn nanfnannnensn nbnensnonsn ncnanrnincninansn nbnaninlnen"
   },
   {
-    "celular": "3n1n4n8n0n6n6n5n0n6n",
-    "rato": 80,
-    "media": 100,
-    "hora": 160,
-    "lugar": "nnon",
+    "celular": "3n1n2n3n8n7n5n2n2n6n",
+    "rato": 1,
+    "media": 1,
+    "hora": 200,
+    "lugar": "dnonmnincninlninon",
     "codigos": [
-      "2n5n4n6n3n1n0n4n",
-      "2n5n7n2n5n3n6n5n"
+      "2n6n3n6n2n8n4n1n",
+      "2n6n4n8n0n2n6n8n",
+      "2n6n6n0n3n2n9n7n",
+      "2n6n6n0n9n4n7n5n",
+      "2n6n6n0n9n4n9n8n"
     ],
-    "otrosNumeros": [],
+    "otrosNumeros": [
+      "3n1n3n4n9n6n3n3n9n2n",
+      "3n1n1n8n4n9n9n4n1n2n",
+      "3n1n0n5n8n9n4n6n4n1n",
+      "3n2n0n3n2n1n8n1n3n6n"
+    ],
     "images": [
-      "2n0n2n5n/n0n6n/n0n7n/n2n1n/n7n4ncncnen6n3nen8n4n0nfn8nan1nfn1n5n4n5nen3n0n9n8n3n3n0nan7n8n4n.njnpngn"
+      "2n0n2n6n/n0n7n/n1n7n/nan8n/nbnbn1n3n5nfn3nbn0n4nfnen3n9n8n8n4n9n1ndncn4n5n6nfn2ndn1n9nen7ncn.njnpngn",
+      "2n0n2n6n/n0n2n/n2n4n/n4n8n/nbn1nencnfn8ncn4ncnfn0n5n3nbn8ncnen9n6ncn9n7nan5n7n0n3n4nan1nenbn.njnpngn"
     ],
-    "mensaje": "nnunnncnan ndnincnen ndnonnndnen nantninennndnen nyn nsnen npnunbnlnincnan nennn nontnrnansn ncninundnandnensn nmnunyn nrnanpnindnanmnennntnen nhnonlnan nmnin nvnindnan nsnonyn nnngnenln nbninennnvnen"
+    "mensaje": "anmnonrn nmnin ntnanrninfnan nsnonnn n2n0n0n npnonrn nhnonrnan ntnen ndnanrn nunnn nbnunennn nsnenxnon nonrnanln nyn nvnangninnnanln nsninnn nanfnannnensn nmnen ngnunsntnan npnansnanrnlnan nbninennn n"
   },
   {
-    "celular": "3n2n3n7n5n7n0n6n0n5n",
+    "celular": "3n1n3n6n1n9n4n0n0n1n",
     "rato": 70,
-    "media": 100,
+    "media": 90,
     "hora": 150,
     "lugar": "cnonnncnhnan",
     "codigos": [
-      "2n6n1n9n4n8n0n5n",
-      "2n6n2n1n6n6n2n2n",
-      "2n6n5n0n6n1n1n9n",
-      "2n6n5n0n6n6n9n4n",
-      "2n6n5n0n6n7n3n8n",
-      "2n6n5n1n2n3n0n0n",
-      "2n6n5n1n2n3n0n5n",
-      "2n6n5n1n7n8n3n5n",
-      "2n6n6n6n4n5n8n2n",
-      "2n6n6n6n4n6n2n5n",
-      "2n6n6n6n9n6n3n9n",
-      "2n6n6n6n9n6n7n0n",
-      "2n6n6n6n9n6n7n8n",
-      "2n6n7n0n4n2n4n2n",
-      "2n6n7n0n4n2n6n9n",
-      "2n6n7n0n4n3n8n8n",
-      "2n6n7n0n5n6n6n1n",
-      "2n6n7n0n5n6n7n8n"
+      "2n6n5n9n7n8n2n3n",
+      "2n6n6n6n8n8n7n5n",
+      "2n6n6n6n8n8n9n5n"
     ],
     "otrosNumeros": [],
     "images": [
-      "2n0n2n6n/n0n7n/n2n3n/n9n0n/n2n9n5n2n8nfn2n8n9n7n6nanan2n4n2n3ncnen2nan8n3n3nan6n6ndnen7n6nan.njnpngn"
+      "2n0n2n6n/n0n7n/n2n5n/n0n9n/n7n2n7n3ndnen8n1n1n7nan5nan2n7n6n5ncncnancn5nen6n8nen0ndnen9nfnen.njnpngn"
     ],
-    "mensaje": "hnonlnan ncninenlnon nsnonyn ndnanlninan nmnindnon n1n5n0n nfnlnanqnunintnan nyn nanpnrnentnandnintnan nennn nmnin nsnenrnvnincninon ntnen nhnangnon nunnn nonrnanln nbninennn nrnincnon nyn nennnsnanln"
+    "mensaje": "hnonlnan nanmnonrn nmnuncnhnon ngnunsntnon nmnen nlnlnanmnon nsnanrnan nunnnan nmnonrnennnintnan ndnen npnenlnon nlnanrngnon nanlntnan nendnandn n2n5nanonsn nfnonlninon ndnenln nsnenrnvnincninon nsnen"
+  },
+  {
+    "celular": "3n1n1n2n5n3n4n4n0n2n",
+    "rato": 1,
+    "media": 80,
+    "hora": 170,
+    "lugar": "pnennntnhnonunsnen",
+    "codigos": [
+      "2n1n3n5n0n4n6n2n",
+      "2n6n0n7n1n7n2n9n"
+    ],
+    "otrosNumeros": [
+      "3n0n1n8n6n0n0n8n6n3n"
+    ],
+    "images": [
+      "2n0n2n5n/n0n9n/n0n4n/n7n9n/n0n1n0nan2n9n1n2nenbncn1n8nan3nbnanan8ndn2n9nan0n3n6n2n2nfndn9ncn.njnpngn"
+    ],
+    "mensaje": "lnuncninannnan njnanrnanmninlnlnoninnnfnonrnmnancninnn ndnen nmnin nsnenrnvnincninon ngnrnancninansn npnonrn nensncnrninbninrntnen nrnencninbnon nennn nunnnan nlninnndnan nlnennncnenrnantnancnonnnensn"
+  },
+  {
+    "celular": "3n0n1n1n5n0n8n8n0n9n",
+    "rato": 1,
+    "media": 1,
+    "hora": 1,
+    "lugar": "",
+    "codigos": [
+      "2n6n6n0n3n8n3n1n",
+      "2n6n6n0n3n8n3n5n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n8n/n1n4n/nen0n/n0n1n6n8n7n8n6ncn7nan3n8ndn7nbn6ncn4nen0nanfn5n4ncnfnanancn8n9n3n.njnpngn"
+    ],
+    "mensaje": "nnan"
+  },
+  {
+    "celular": "3n2n1n5n2n9n0n5n1n6n",
+    "rato": 60,
+    "media": 90,
+    "hora": 130,
+    "lugar": "cnonlnonnninanln",
+    "codigos": [
+      "2n6n1n6n0n0n7n3n",
+      "2n6n2n8n9n3n3n0n",
+      "2n6n3n1n0n5n7n1n",
+      "2n6n3n1n1n9n4n2n",
+      "2n6n6n0n6n4n5n5n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n1n/n1n1n/nbnfn/n2n3n3nen9n5n1n3n1n3ncnan8n7n1n4n0n8n9nen1nfn4n5n4n9n4nfnen9n5n7n.njnpngn"
+    ],
+    "mensaje": "hnonlnan nmnonrn nlninnndnon nmnen nlnlnanmnon nhnenlnennn nunnnan nhnenrnmnonsnan npnenlnin nnnengnrnan ndnenlngnandnan ntnondnan nunnnan ncnanjnintnan ndnen nsnonrnpnrnensnansn nennn nlnan ncnanmnan"
+  },
+  {
+    "celular": "3n1n8n3n5n1n5n8n2n3n",
+    "rato": 80,
+    "media": 100,
+    "hora": 150,
+    "lugar": "sninnngnanpnunrn",
+    "codigos": [
+      "2n6n4n4n5n4n7n5n",
+      "2n6n4n4n9n3n8n4n",
+      "2n6n4n5n1n4n3n1n",
+      "2n6n4n7n5n3n3n4n",
+      "2n6n4n8n2n6n5n1n",
+      "2n6n4n9n0n0n1n9n",
+      "2n6n4n9n2n1n6n6n",
+      "2n6n5n0n7n0n4n6n",
+      "2n6n5n5n0n0n8n9n",
+      "2n6n5n5n0n1n0n1n",
+      "2n6n5n5n0n1n2n1n",
+      "2n6n5n6n1n9n8n3n",
+      "2n6n6n8n6n0n4n4n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n6n/n1n2n/n0n7n/n9n7n2n7nbn8nen6n3ndnbn0n5nfn5n0nen0nenfn0n7n0n9ndn1n7n2n9n5n0n7n.njnpngn"
+    ],
+    "mensaje": "hnonlnan ncnanrninon nsnonyn nsnhnanrnlnontn nunnnan nfnlnancnan ndnen n2n4n nanonsn ndnen npninenln nbnlnannncnan nsnennnonsn npnenqnunenonsn nyn nunnnansn nnnanlngnansn nnnantnunrnanlnensn ninnngnrn"
+  },
+  {
+    "celular": "3n1n8n5n2n9n9n1n8n5n",
+    "rato": 60,
+    "media": 80,
+    "hora": 130,
+    "lugar": "pnennntnhnonunsnen",
+    "codigos": [
+      "2n6n7n0n9n6n5n5n",
+      "2n6n7n0n9n6n8n3n",
+      "2n6n7n0n9n9n2n6n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n9n/n1n8n/ndnfn/ndnanan2n9nan1n4n6n4n2n1ncnfn7n5n8n9n0n0n1n3n1n4nbn4n0n7n1n8n6nen.njnpngn"
+    ],
+    "mensaje": "hnonlnan ncnonmnon nensntnansn nmnin nnnonmnbnrnen nensn nvnanlnennntninnnan nyn ntnennngnon n2n4n nanonsn nyn nensntnonyn nmnunyn nfnenlninzn ndnen ntnennnenrntnen nanqnun nmninsn ntnanrninfnansn nhn"
+  },
+  {
+    "celular": "3n2n2n2n2n5n0n4n9n3n",
+    "rato": 60,
+    "media": 90,
+    "hora": 150,
+    "lugar": "sninnngnanpnunrn",
+    "codigos": [
+      "2n5n5n1n2n2n7n8n",
+      "2n5n5n7n1n8n7n0n",
+      "2n5n7n5n6n1n0n6n",
+      "2n5n8n8n3n3n9n4n",
+      "2n6n0n3n9n5n1n3n",
+      "2n6n0n3n9n5n4n3n",
+      "2n6n2n5n1n0n8n8n",
+      "2n6n3n6n0n8n4n8n",
+      "2n6n3n6n0n8n6n6n",
+      "2n6n5n1n5n8n5n3n",
+      "2n6n5n1n6n5n4n8n",
+      "2n6n5n3n8n7n5n0n",
+      "2n6n5n4n4n2n8n1n",
+      "2n6n5n4n9n2n0n9n",
+      "2n6n6n0n4n3n4n6n",
+      "2n6n6n0n4n4n6n6n",
+      "2n6n6n6n7n7n9n6n"
+    ],
+    "otrosNumeros": [
+      "3n2n2n2n2n4n9n4n2n6n",
+      "3n2n0n7n5n1n4n2n7n5n",
+      "3n2n1n2n5n3n2n3n0n1n"
+    ],
+    "images": [
+      "2n0n2n5n/n0n8n/n1n6n/nfn8n/ndn0nan7n4nan9n5n7n4n5nfnfnbnbnancn7n9nendnendn0n0nencn4nan8nbn2n.njnpngn",
+      "2n0n2n6n/n0n7n/n1n8n/n2n9n/n3n6nfn7n6n0n0n2nfn5n5ncn0n0n7n2n7n4ndnfn7n2nbn2ndnan1n4n8n7n2nen.njnpngn"
+    ],
+    "mensaje": "hnonlnan nanmnonrn nmnen nlnlnanmn nlnunnnan nsnonyn nunnnan nhnenrnmnonsnan nnninan ndnen n2n0n nanonsn nqnunen nvninennnen nan nonfnrnencnenrntnen nsnunsn nsnenrnvnincninonsn npnanrnan nqnunen nlnan"
+  },
+  {
+    "celular": "3n2n1n2n3n4n4n6n4n3n",
+    "rato": 60,
+    "media": 80,
+    "hora": 130,
+    "lugar": "cnonlnonnninanln",
+    "codigos": [
+      "2n3n4n5n9n6n6n0n",
+      "2n3n4n6n8n5n8n5n",
+      "2n3n5n6n5n3n7n3n",
+      "2n3n7n3n7n1n6n8n",
+      "2n3n9n1n3n9n3n7n",
+      "2n4n4n5n8n6n2n2n",
+      "2n4n5n4n3n4n7n8n",
+      "2n4n5n5n5n3n9n5n",
+      "2n4n9n1n1n5n3n0n",
+      "2n4n9n1n5n2n4n2n",
+      "2n5n1n0n2n2n3n9n",
+      "2n5n1n6n2n2n6n5n",
+      "2n5n4n9n3n0n0n5n",
+      "2n5n5n9n8n9n2n6n",
+      "2n5n5n9n9n3n3n2n",
+      "2n5n5n9n9n3n5n3n",
+      "2n5n6n4n8n4n9n3n",
+      "2n5n6n4n8n5n8n6n",
+      "2n5n8n1n4n2n8n9n",
+      "2n6n0n0n1n9n1n6n",
+      "2n6n0n0n1n9n6n1n",
+      "2n6n0n0n2n3n8n5n",
+      "2n6n0n0n2n4n1n1n",
+      "2n6n0n0n6n1n8n4n",
+      "2n6n3n7n3n9n0n3n",
+      "2n6n3n7n4n0n7n7n",
+      "2n6n3n7n4n1n4n5n",
+      "2n6n3n7n4n1n7n9n"
+    ],
+    "otrosNumeros": [
+      "3n1n4n2n2n5n5n8n7n7n",
+      "3n0n4n6n3n9n8n5n7n2n",
+      "3n0n1n6n6n0n2n5n4n1n",
+      "3n0n1n9n0n0n2n2n7n2n",
+      "3n0n0n9n0n7n9n0n2n3n"
+    ],
+    "images": [
+      "2n0n2n6n/n0n3n/n0n5n/n8n4n/n2ndnfn0nbn8n9ncn2n4n4n8ndn1n0nan0n7n9n6n8n0ncn4n1n3n9nbn8n5n8ncn.njnpngn",
+      "2n0n2n6n/n0n3n/n0n3n/ndn2n/nfnanan0n9nbnbn7n9n1ncn9n5n8ndn9n1n1n0n7n1ndnbnendn9ncn2n2n7n7n2n.njnpngn"
+    ],
+    "mensaje": "tnenlnengnrnanmn nhnonlnan ncnonrnanznnn nsnonyn nsnanmnannntnhnan ndnen nnnancninonnnanlnindnandn nvnennnenznonlnannnananmnonrn nmnin nsnenrnvnincninon ncnunennntnan ncnonnn nunnn nrnincnon ntnrnantn"
+  },
+  {
+    "celular": "3n1n0n8n1n6n5n0n8n9n",
+    "rato": 60,
+    "media": 100,
+    "hora": 150,
+    "lugar": "cnonlnonnninanln",
+    "codigos": [
+      "2n4n9n8n2n7n7n5n",
+      "2n4n9n9n2n1n2n1n",
+      "2n4n9n9n4n7n5n6n",
+      "2n5n0n2n1n0n7n8n",
+      "2n5n0n6n9n4n8n0n",
+      "2n5n0n7n0n3n2n4n",
+      "2n5n1n7n7n6n4n8n",
+      "2n5n7n7n5n1n9n0n",
+      "2n5n7n7n5n2n7n2n",
+      "2n5n7n7n5n2n8n6n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n5n/n0n3n/n1n2n/nfn4n/n6n3n4n8nanbn8nfn3n9n0n0nan2n6n3n9nenenen5nanandn6nfn7ncn3nendn5n.njnpngn"
+    ],
+    "mensaje": "hnonlnan nanmnonrn nsnonyn nanmnannndnan ntnen nonfnrnenzncnon nmninsn nsnenrnvnincninonsn ntninennnennn nunnn ncnonsntnon ndnen n6n0n0n0n0n n1n5n nmninnn n1n0n0n0n0n0n nmnendninan nhnonrnan n1n5n0n0n"
+  },
+  {
+    "celular": "3n0n0n8n7n5n2n3n2n0n",
+    "rato": 60,
+    "media": 80,
+    "hora": 150,
+    "lugar": "sninnngnanpnunrn",
+    "codigos": [
+      "2n6n4n8n3n4n9n8n",
+      "2n6n4n8n3n5n0n3n",
+      "2n6n4n9n1n6n3n1n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n5n/n0n2n/nfn5n/n0nbnfn8n6nfncn9n3ncnan6n2nenbn4nen0ncn2n0nenbn7n5nanbn6n1n8nbnen.njnpngn"
+    ],
+    "mensaje": "bnlnancnkn nhnonunsnen nvninpn npnanonlnan nhnonlnan nmnin nanmnonrn nsnonyn npnanonlnan ntnun ntnennntnancninnn ndnen n1n8n nanintnonsn nfnlnancnan nensnpnencntnancnunlnanrn npninenln nsnunanvnen ncn"
+  },
+  {
+    "celular": "3n1n8n8n5n8n7n4n8n6n",
+    "rato": 1,
+    "media": 1,
+    "hora": 100,
+    "lugar": "mnanrninonnn",
+    "codigos": [
+      "2n3n7n3n6n2n8n5n",
+      "2n3n7n4n3n8n8n9n",
+      "2n3n7n7n4n1n7n5n",
+      "2n3n8n6n0n9n6n4n",
+      "2n3n9n2n5n1n1n3n",
+      "2n4n2n4n4n2n8n1n",
+      "2n5n2n1n9n2n5n5n",
+      "2n5n2n5n7n6n6n9n",
+      "2n5n2n6n3n1n8n1n",
+      "2n6n0n3n2n2n2n8n"
+    ],
+    "otrosNumeros": [
+      "3n1n3n4n6n0n4n4n2n8n",
+      "3n1n4n3n1n7n4n0n7n2n",
+      "3n1n2n8n2n4n5n9n3n6n",
+      "3n1n0n5n5n2n2n4n8n0n",
+      "3n2n2n3n0n6n8n3n1n1n",
+      "3n2n1n3n2n0n2n3n0n5n",
+      "3n2n0n9n1n4n0n4n8n8n"
+    ],
+    "images": [
+      "2n0n2n4n/n1n0n/n2n1n/n6n5n/n2ndn0n3n2n3n9n6nbnfndnfnenanen2n4n0n6n3n4n4n4n3nan7ncn9n6n5n6n5n.njnpngn"
+    ],
+    "mensaje": ""
   },
   {
     "celular": "3n2n1n4n2n1n6n8n1n9n",
@@ -701,130 +1070,91 @@ let perfiles = [
     "mensaje": "hnonlnan nanmnonrn nsnonyn nkninmn nanlnen nunnnan ncnhnincnan nqnunen ntnen ncnonnnsnennntninrnan nmnuncnhnon nyn nqnunen nlnan npnondnrnsn npnansnanrn nmnunyn nbninennn nmninsn nsnenrnvnincninonsn n"
   },
   {
-    "celular": "3n1n2n3n8n7n5n2n2n6n",
-    "rato": 1,
-    "media": 1,
-    "hora": 200,
-    "lugar": "dnonmnincninlninon",
-    "codigos": [
-      "2n6n3n6n2n8n4n1n",
-      "2n6n4n8n0n2n6n8n",
-      "2n6n6n0n3n2n9n7n",
-      "2n6n6n0n9n4n7n5n",
-      "2n6n6n0n9n4n9n8n"
-    ],
-    "otrosNumeros": [
-      "3n1n3n4n9n6n3n3n9n2n",
-      "3n1n1n8n4n9n9n4n1n2n",
-      "3n1n0n5n8n9n4n6n4n1n",
-      "3n2n0n3n2n1n8n1n3n6n"
-    ],
-    "images": [
-      "2n0n2n6n/n0n7n/n1n7n/nan8n/nbnbn1n3n5nfn3nbn0n4nfnen3n9n8n8n4n9n1ndncn4n5n6nfn2ndn1n9nen7ncn.njnpngn",
-      "2n0n2n6n/n0n2n/n2n4n/n4n8n/nbn1nencnfn8ncn4ncnfn0n5n3nbn8ncnen9n6ncn9n7nan5n7n0n3n4nan1nenbn.njnpngn"
-    ],
-    "mensaje": "anmnonrn nmnin ntnanrninfnan nsnonnn n2n0n0n npnonrn nhnonrnan ntnen ndnanrn nunnn nbnunennn nsnenxnon nonrnanln nyn nvnangninnnanln nsninnn nanfnannnensn nmnen ngnunsntnan npnansnanrnlnan nbninennn n"
-  },
-  {
-    "celular": "3n0n0n5n2n1n4n1n4n0n",
-    "rato": 80,
-    "media": 100,
-    "hora": 150,
-    "lugar": "cnhnanpninnnenrnon",
-    "codigos": [
-      "2n6n5n4n4n4n4n3n",
-      "2n6n5n9n0n7n5n2n",
-      "2n6n5n9n2n7n6n2n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n6n/n0n9n/n2n1n/n8nen/nfnfnen2ncndn6nen7nbnan4n4ncnenan1n7n0nbnbn4n8nbndnen2n0ncn4n8n1n.njnpngn"
-    ],
-    "mensaje": "anmnonrn nbninennnvnennnindnon nan nmnin nensnpnancninon ntnen nonfnrnenzncnon nrnenlnancninonnnensn ninlninmnintnandnansn nennn nenln ntninenmnpnon npnancntnandnon nbnensnintnonsn ncnanrnincninansn n"
-  },
-  {
-    "celular": "3n1n0n2n5n5n4n9n0n2n",
+    "celular": "3n2n3n7n5n7n0n6n0n5n",
     "rato": 70,
     "media": 100,
     "hora": 150,
-    "lugar": "pnennntnhnonunsnen",
+    "lugar": "cnonnncnhnan",
     "codigos": [
-      "2n5n6n4n5n2n7n0n",
-      "2n5n6n4n5n3n8n3n",
-      "2n5n6n4n5n5n2n8n",
-      "2n5n7n1n0n5n5n0n",
-      "2n5n7n4n2n2n9n9n",
-      "2n6n4n9n9n8n0n3n",
-      "2n6n5n2n0n5n8n4n",
-      "2n6n5n2n0n5n9n6n",
-      "2n6n5n6n2n7n9n5n",
-      "2n6n5n7n4n5n8n0n",
-      "2n6n5n7n4n5n8n8n",
-      "2n6n5n7n4n5n9n9n"
-    ],
-    "otrosNumeros": [
-      "3n1n8n9n5n4n0n3n7n3n",
-      "3n2n1n9n2n9n3n4n4n3n",
-      "3n1n5n0n7n4n4n2n4n0n"
-    ],
-    "images": [
-      "2n0n2n6n/n0n5n/n1n2n/n2n9n/n3n0n3nancn5n3n6n7nan3n7n6nfn6n3n0nfn4n6n1n3n9n8ndn1nan8n6n5n5n5n.njnpngn"
-    ],
-    "mensaje": "hnonlnan nanmnonrn nlninnndnon nbninennnvnennnindnon nsnonyn nvnannnensnan nunnnan nhnenrnmnonsnan ncnhnincnan ndnen n2n0n nanintnonsn nmninsn nsnenrnvnincninonsn nsnonnnrnantnon7n0nmnendninan1n0n0nhn"
-  },
-  {
-    "celular": "3n1n1n6n5n2n7n3n0n4n",
-    "rato": 80,
-    "media": 100,
-    "hora": 160,
-    "lugar": "cnanmnpnonnnunenzn",
-    "codigos": [
-      "2n5n4n3n0n3n9n6n",
-      "2n5n9n4n7n8n8n3n",
-      "2n6n0n2n8n3n1n7n",
-      "2n6n0n3n9n3n3n4n",
-      "2n6n2n2n2n4n3n2n",
-      "2n6n2n2n7n0n8n2n",
-      "2n6n4n9n8n4n7n0n",
-      "2n6n5n3n9n3n8n6n"
-    ],
-    "otrosNumeros": [
-      "3n0n0n1n5n1n2n5n5n9n",
-      "3n0n0n9n8n4n6n2n9n2n",
-      "3n0n2n2n9n8n5n1n9n9n",
-      "3n0n2n3n0n1n1n3n7n8n",
-      "3n1n1n4n5n2n2n7n6n7n",
-      "3n0n0n8n8n2n4n7n2n1n",
-      "3n1n1n8n0n6n5n2n2n0n"
-    ],
-    "images": [
-      "2n0n2n6n/n0n6n/n0n6n/n6n9n/ndn9ndn0n8n1nendnbn0n5nbn9n6n7n3ncnenan2n2n5nfn1n0n0n2nbn4nfn7n5n.njnpngn"
-    ],
-    "mensaje": "hnonlnan ncnanbnanlnlnenrnon nsnonyn nbnanrnbninen ncnmnon nensntnansn nensntnonsn nsnonnn nanlngnunnnonsn ndnen nmninsn nsnenrnvnincninonsn8n0nkn nunnn nrnantnincnon n2n0n nmninnnuntnonsnbninennn nrn"
-  },
-  {
-    "celular": "3n1n4n7n1n6n9n0n7n8n",
-    "rato": 80,
-    "media": 100,
-    "hora": 1,
-    "lugar": "cnansnanbnonnnintnan",
-    "codigos": [
-      "2n6n6n3n4n4n4n5n",
-      "2n6n6n3n4n8n5n5n",
-      "2n6n6n3n6n2n4n8n",
-      "2n6n6n4n1n8n0n8n",
-      "2n6n6n5n3n0n9n8n",
-      "2n6n6n8n0n7n4n1n",
-      "2n6n6n8n0n7n6n6n",
-      "2n6n6n9n7n8n1n6n",
-      "2n6n7n1n5n1n3n4n"
+      "2n6n1n9n4n8n0n5n",
+      "2n6n2n1n6n6n2n2n",
+      "2n6n5n0n6n1n1n9n",
+      "2n6n5n0n6n6n9n4n",
+      "2n6n5n0n6n7n3n8n",
+      "2n6n5n1n2n3n0n0n",
+      "2n6n5n1n2n3n0n5n",
+      "2n6n5n1n7n8n3n5n",
+      "2n6n6n6n4n5n8n2n",
+      "2n6n6n6n4n6n2n5n",
+      "2n6n6n6n9n6n3n9n",
+      "2n6n6n6n9n6n7n0n",
+      "2n6n6n6n9n6n7n8n",
+      "2n6n7n0n4n2n4n2n",
+      "2n6n7n0n4n2n6n9n",
+      "2n6n7n0n4n3n8n8n",
+      "2n6n7n0n5n6n6n1n",
+      "2n6n7n0n5n6n7n8n"
     ],
     "otrosNumeros": [],
     "images": [
-      "2n0n2n6n/n0n9n/n1n2n/n7n4n/nfn0nanfn4ndnfn6n7n7nfn2n4n9n9n6nbn9n7n9n8n0n9n6n5n7n6n7nbnan5ndn.njnpngn",
-      "2n0n2n6n/n0n8n/n0n6n/n1ncn/n9n7ndnanenfnbn7nfn6nfnfndn3n1nan4n4n2nfnan2nanfn5ndnbn6n8nan2nen.njnpngn"
+      "2n0n2n6n/n0n7n/n2n3n/n9n0n/n2n9n5n2n8nfn2n8n9n7n6nanan2n4n2n3ncnen2nan8n3n3nan6n6ndnen7n6nan.njnpngn"
     ],
-    "mensaje": "mnin nanmnonrn nenln nrnantnon nlnen nvnanlnen n8n0nmninln nyn nlnan nmnendninan nhnonrnan n1n0n0nmninln ncnanrnrnenrnan n1n3n n2n2n4n nlnan nqnunenbnandnintnan nhnontnenln ncnansnan nbnonnnintnan"
+    "mensaje": "hnonlnan ncninenlnon nsnonyn ndnanlninan nmnindnon n1n5n0n nfnlnanqnunintnan nyn nanpnrnentnandnintnan nennn nmnin nsnenrnvnincninon ntnen nhnangnon nunnn nonrnanln nbninennn nrnincnon nyn nennnsnanln"
+  },
+  {
+    "celular": "3n0n0n9n7n4n0n3n8n6n",
+    "rato": 60,
+    "media": 80,
+    "hora": 140,
+    "lugar": "bnungnannnvninlnensn",
+    "codigos": [
+      "2n4n6n1n7n6n3n1n",
+      "2n4n7n4n6n1n1n8n"
+    ],
+    "otrosNumeros": [
+      "3n0n0n9n7n4n0n5n0n3n",
+      "3n0n1n4n9n0n7n5n0n3n"
+    ],
+    "images": [
+      "2n0n2n3n/n1n0n/n2n5n/n8n4n/n8ndn8n4n7nbn8n8n9n1nan6nbn2ndn4n2n1n1nbnbn0nencn1nfnendn0nfn9n6n.njnpngn"
+    ],
+    "mensaje": "hnonlnan nanmnonrnennn nmninsn nsnenrnvnincninonsn ntnen nonfnrnenzncnon nunnn ndnenlnincninonsnon ntnrnantnon nmnansnanjnen nrnenlnanjnannntnen nbnensnintnonsn nrnincnansn ncnanrnincninansn nonrnanln"
+  },
+  {
+    "celular": "3n2n0n9n8n4n8n3n5n3n",
+    "rato": 80,
+    "media": 120,
+    "hora": 180,
+    "lugar": "cnonlnonnninanln",
+    "codigos": [
+      "2n5n7n6n0n6n7n3n",
+      "2n5n7n6n0n9n1n3n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n9n/n2n1n/nan4n/nbnan1n5n0ndnfnbndn7nfn9ncncn7n5n0nfn7n5nfnbn0n9n8n5n9nen3n4n8n4n.njnpngn",
+      "2n0n2n6n/n0n9n/n2n0n/nan5n/n9nencn8n9ndncn9n4n5nan2n9n6n5n7nan4n4n3nfnen4nenan7n9n2n5n5n2n9n.njnpngn"
+    ],
+    "mensaje": "pnrnencninonsn nfninjnonsn nhnonlnan nmnin nanmnonrn nnnunenvnan nennn ntnun ncninundnandn ntnennngnon n2n0n nanintnonsn nmnindnon n1n5n7n nsnonlnon nhnonmnbnrnensn ndnen nbnunennn npnanlnandnanrn nmn"
+  },
+  {
+    "celular": "3n1n4n4n6n6n9n4n7n8n",
+    "rato": 70,
+    "media": 100,
+    "hora": 160,
+    "lugar": "nnon",
+    "codigos": [
+      "2n6n3n2n9n8n6n8n",
+      "2n6n3n4n7n2n7n5n",
+      "2n6n3n7n1n1n5n0n",
+      "2n6n3n7n4n6n1n8n",
+      "2n6n6n7n5n5n0n0n"
+    ],
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n2n/n0n4n/n4ndn/n6ncn1ndnenen6ndnenfn0nen3n2n4n2n4nenfnanfndn9n9n5nenen5n9nan5ncn.njnpngn"
+    ],
+    "mensaje": "sninnngnanpnunrn nsnen nmnen nhnancnen nfnenan npnonrn npnrninmnenrnan nvnenzn nennn ntnun ncninundnandn nknanhnonrnin nunnnan ncnhnincnan nenxntnrnonvnenrntnindnan ncnanrninonsnan nyn ncnonnn nmnuncn"
   },
   {
     "celular": "3n1n0n2n8n9n4n3n1n5n",
@@ -887,99 +1217,24 @@ let perfiles = [
     "mensaje": "pnanrnencninenrnan nqnunen nsnonnn n2n nhnonlnan nanmnonrn nsnonyn nannnnnyn ncnonlnonmnbninan ndnen nbnongnontnan nmninsn ntnanrninfnansn nsnonnn nrnantnon4n0n0n0n0n nlnan nmnendninan7n0n0n0n0n nnnon"
   },
   {
-    "celular": "3n2n0n2n2n6n4n7n7n8n",
-    "rato": 1,
-    "media": 80,
-    "hora": 100,
+    "celular": "3n2n1n4n7n1n6n9n6n7n",
+    "rato": 0,
+    "media": 0,
+    "hora": 0,
     "lugar": "nnon",
     "codigos": [
-      "2n6n0n9n5n3n8n1n",
-      "2n6n2n9n4n6n6n0n"
-    ],
-    "otrosNumeros": [
-      "3n2n3n5n0n6n8n9n9n0n"
-    ],
-    "images": [
-      "2n0n2n6n/n0n5n/n1n5n/n3n7n/n2n2n0n8n9n9ncn4n1nan4n8n7nen9nfndncnbn2n4n8n0n2n7n6n4nbn9n3nen0n.njnpngn"
-    ],
-    "mensaje": "cnansnanbnonnnintnan nnnon nsnen nvnen nbnonnnintnan ntnennngnon nsnintninonsnonlnon nandnmnincninlninonmnendninan nhnonrnan n8n0n n1n nrnenlnancninonnn nonrnanln nanln nnnantnunrnanln nvnangninnnanln"
-  },
-  {
-    "celular": "3n0n0n8n7n5n2n3n2n0n",
-    "rato": 60,
-    "media": 80,
-    "hora": 150,
-    "lugar": "sninnngnanpnunrn",
-    "codigos": [
-      "2n6n4n8n3n4n9n8n",
-      "2n6n4n8n3n5n0n3n",
-      "2n6n4n9n1n6n3n1n"
+      "2n5n1n4n6n5n9n3n",
+      "2n5n1n5n8n2n5n4n",
+      "2n5n2n6n7n7n9n8n",
+      "2n5n4n4n0n5n6n4n",
+      "2n5n4n4n0n5n7n1n",
+      "2n5n4n8n1n4n6n7n"
     ],
     "otrosNumeros": [],
     "images": [
-      "2n0n2n6n/n0n5n/n0n2n/nfn5n/n0nbnfn8n6nfncn9n3ncnan6n2nenbn4nen0ncn2n0nenbn7n5nanbn6n1n8nbnen.njnpngn"
+      "2n0n2n5n/n0n1n/n1n5n/n7nfn/n8n0n5ncn8nen4nfn5ndnfn0n3n2ncnfndn1n5n6nfn2n3n6nan7n2n3n5n1n7ndn.njnpngn"
     ],
-    "mensaje": "bnlnancnkn nhnonunsnen nvninpn npnanonlnan nhnonlnan nmnin nanmnonrn nsnonyn npnanonlnan ntnun ntnennntnancninnn ndnen n1n8n nanintnonsn nfnlnancnan nensnpnencntnancnunlnanrn npninenln nsnunanvnen ncn"
-  },
-  {
-    "celular": "3n1n4n4n6n6n9n4n7n8n",
-    "rato": 70,
-    "media": 100,
-    "hora": 160,
-    "lugar": "nnon",
-    "codigos": [
-      "2n6n3n2n9n8n6n8n",
-      "2n6n3n4n7n2n7n5n",
-      "2n6n3n7n1n1n5n0n",
-      "2n6n3n7n4n6n1n8n",
-      "2n6n6n7n5n5n0n0n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n6n/n0n2n/n0n4n/n4ndn/n6ncn1ndnenen6ndnenfn0nen3n2n4n2n4nenfnanfndn9n9n5nenen5n9nan5ncn.njnpngn"
-    ],
-    "mensaje": "sninnngnanpnunrn nsnen nmnen nhnancnen nfnenan npnonrn npnrninmnenrnan nvnenzn nennn ntnun ncninundnandn nknanhnonrnin nunnnan ncnhnincnan nenxntnrnonvnenrntnindnan ncnanrninonsnan nyn ncnonnn nmnuncn"
-  },
-  {
-    "celular": "3n1n0n8n1n6n5n0n8n9n",
-    "rato": 60,
-    "media": 100,
-    "hora": 150,
-    "lugar": "cnonlnonnninanln",
-    "codigos": [
-      "2n4n9n8n2n7n7n5n",
-      "2n4n9n9n2n1n2n1n",
-      "2n4n9n9n4n7n5n6n",
-      "2n5n0n2n1n0n7n8n",
-      "2n5n0n6n9n4n8n0n",
-      "2n5n0n7n0n3n2n4n",
-      "2n5n1n7n7n6n4n8n",
-      "2n5n7n7n5n1n9n0n",
-      "2n5n7n7n5n2n7n2n",
-      "2n5n7n7n5n2n8n6n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n5n/n0n3n/n1n2n/nfn4n/n6n3n4n8nanbn8nfn3n9n0n0nan2n6n3n9nenenen5nanandn6nfn7ncn3nendn5n.njnpngn"
-    ],
-    "mensaje": "hnonlnan nanmnonrn nsnonyn nanmnannndnan ntnen nonfnrnenzncnon nmninsn nsnenrnvnincninonsn ntninennnennn nunnn ncnonsntnon ndnen n6n0n0n0n0n n1n5n nmninnn n1n0n0n0n0n0n nmnendninan nhnonrnan n1n5n0n0n"
-  },
-  {
-    "celular": "3n1n6n9n2n8n3n3n4n6n",
-    "rato": 80,
-    "media": 100,
-    "hora": 150,
-    "lugar": "sninnngnanpnunrn",
-    "codigos": [
-      "2n6n6n4n5n7n1n9n",
-      "2n6n6n4n5n9n5n1n",
-      "2n6n7n0n2n0n0n2n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n6n/n0n8n/n1n2n/n0nfn/ncn6nen2n1n0n1n4nfnbn5n1n3n4nfn4nen4n1ncn1n9nfn0n1n4nbn6n8n3nan9n.njnpngn"
-    ],
-    "mensaje": "hnonlnan nanmnonrn nsnonyn nannntnonnnenlnlnanhnenrnmnonsnan nmnonrnennnan ndnen nsnennnonsn ngnrnannndnensn nyn ncnunrnvnansn nsnenxnynsn nyn nsnonnnrninsnan nennncnannntnandnonrnanvnennn nyn npnansn"
+    "mensaje": "cnonlnonnninanln"
   },
   {
     "celular": "3n0n2n6n4n5n9n2n3n2n",
@@ -1005,30 +1260,28 @@ let perfiles = [
     "mensaje": "rnondnrningnonlnanrnan nsnintninon npnenlningnrnonsnon nnnunensntnrnansn ntnanrninfnansn nsnonnn ncnmnondnansn npnanrnan ntnondnon nlnon nrnincnon nqnunen nlnon npnansnanrnansn nrnantnon ndnen n1n0n n"
   },
   {
-    "celular": "3n2n4n6n4n9n2n8n9n5n",
-    "rato": 70,
-    "media": 90,
-    "hora": 140,
-    "lugar": "sninnngnanpnunrn",
+    "celular": "3n1n4n7n1n6n9n0n7n8n",
+    "rato": 80,
+    "media": 100,
+    "hora": 1,
+    "lugar": "cnansnanbnonnnintnan",
     "codigos": [
-      "2n2n4n4n5n4n3n4n",
-      "2n2n4n7n5n4n4n3n",
-      "2n3n5n8n5n5n2n6n",
-      "2n4n1n9n7n7n0n5n",
-      "2n4n1n9n7n7n5n3n",
-      "2n4n5n3n4n7n1n8n",
-      "2n4n6n6n9n2n3n0n",
-      "2n5n0n1n2n5n1n9n",
-      "2n5n0n1n2n8n2n1n",
-      "2n5n0n1n2n9n3n0n"
+      "2n6n6n3n4n4n4n5n",
+      "2n6n6n3n4n8n5n5n",
+      "2n6n6n3n6n2n4n8n",
+      "2n6n6n4n1n8n0n8n",
+      "2n6n6n5n3n0n9n8n",
+      "2n6n6n8n0n7n4n1n",
+      "2n6n6n8n0n7n6n6n",
+      "2n6n6n9n7n8n1n6n",
+      "2n6n7n1n5n1n3n4n"
     ],
-    "otrosNumeros": [
-      "3n0n4n5n2n5n7n0n2n1n",
-      "3n2n2n3n6n1n3n7n0n9n",
-      "3n1n1n8n6n2n6n8n7n2n"
+    "otrosNumeros": [],
+    "images": [
+      "2n0n2n6n/n0n9n/n1n2n/n7n4n/nfn0nanfn4ndnfn6n7n7nfn2n4n9n9n6nbn9n7n9n8n0n9n6n5n7n6n7nbnan5ndn.njnpngn",
+      "2n0n2n6n/n0n8n/n0n6n/n1ncn/n9n7ndnanenfnbn7nfn6nfnfndn3n1nan4n4n2nfnan2nanfn5ndnbn6n8nan2nen.njnpngn"
     ],
-    "images": [],
-    "mensaje": "hnonlnan nanmnonrn ncnmnon nensntnsn nsnonyn ngnanbnyn nmninsn nsnenrnvnincninonsn nsnonnn nhnonrnan n1n4n0n nsnenxnon nonrnanln nyn nvnangninnnanln ncnonnn npnrnensnenrnvnantninvnonsn nmnendninan n9n"
+    "mensaje": "mnin nanmnonrn nenln nrnantnon nlnen nvnanlnen n8n0nmninln nyn nlnan nmnendninan nhnonrnan n1n0n0nmninln ncnanrnrnenrnan n1n3n n2n2n4n nlnan nqnunenbnandnintnan nhnontnenln ncnansnan nbnonnnintnan"
   },
   {
     "celular": "3n1n7n0n6n4n4n9n4n9n",
@@ -1211,46 +1464,6 @@ let perfiles = [
     "mensaje": "nneninvnansnonyn nunnnan nhnenrnmnonsnan nmnonrnennnan nenxnontnincnan nmnunyn ncnonmnpnlnancninennntnen npnanrnan ntnin ntnrnantnon ndnen nnnonvninan nyn nsnonyn nmnunyn nensnpnencninanln ncnonnntnin"
   },
   {
-    "celular": "3n2n1n8n2n7n7n4n2n2n",
-    "rato": 60,
-    "media": 100,
-    "hora": 140,
-    "lugar": "sninnngnanpnunrn",
-    "codigos": [
-      "2n5n9n3n7n4n3n4n",
-      "2n5n9n5n7n1n1n4n",
-      "2n5n9n5n7n7n5n4n",
-      "2n5n9n6n3n9n9n5n",
-      "2n5n9n8n1n3n2n3n",
-      "2n6n0n2n8n9n6n7n",
-      "2n6n1n3n3n7n8n5n",
-      "2n6n1n3n6n1n9n2n",
-      "2n6n1n3n6n2n2n6n",
-      "2n6n1n3n6n2n9n3n",
-      "2n6n1n6n9n6n4n0n",
-      "2n6n1n8n7n1n6n0n",
-      "2n6n1n8n7n3n2n0n",
-      "2n6n2n7n3n7n6n5n",
-      "2n6n3n4n4n2n3n1n",
-      "2n6n3n4n4n7n1n7n",
-      "2n6n5n1n6n2n1n3n",
-      "2n6n5n5n1n3n5n0n",
-      "2n6n5n5n1n7n0n3n",
-      "2n6n5n5n2n2n2n3n",
-      "2n6n5n5n2n2n3n4n",
-      "2n6n5n7n2n7n9n9n",
-      "2n6n7n0n2n2n1n7n",
-      "2n6n7n0n2n5n9n7n",
-      "2n6n7n0n3n1n0n4n",
-      "2n6n7n0n8n3n5n4n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n5n/n1n0n/n2n9n/n7n6n/n4n0nan5n1nenan5n5n7nfnan3n2n8n3ndn2n1nfn6n8nen6ncn1n8nencn1n5n3n.njnpngn"
-    ],
-    "mensaje": "lnenyndnin npnenlninnnengnrnan npnanrnan nhnonmnbnrnen ndnen nbnunennn ngnunsntnonsnenxnyn ndnensncnonmnpnlnincnandnan ncnonmnon nlnan ndnencnenanbnansn nmnin nbnenbnen nrnantnon n6n0nmninln n1n0n0n n"
-  },
-  {
     "celular": "3n1n1n2n9n3n0n8n5n9n",
     "rato": 80,
     "media": 100,
@@ -1307,50 +1520,6 @@ let perfiles = [
       "2n0n2n6n/n0n6n/n1n3n/n5n3n/n3nanbn2nen3ncn7n5n0n5n5n4n1n6nbn3n6nbn5n7n9n3n5n8n4n5nen0n7ndn3n.njnpngn"
     ],
     "mensaje": "lnan nvnin nannntnensn nsnonlnon nvninrntnunanln"
-  },
-  {
-    "celular": "3n2n0n9n7n3n9n1n2n0n",
-    "rato": 0,
-    "media": 0,
-    "hora": 0,
-    "lugar": "nnon",
-    "codigos": [
-      "2n6n1n0n1n6n4n1n",
-      "2n6n1n0n1n7n1n1n",
-      "2n6n1n2n4n8n5n8n",
-      "2n6n1n5n5n8n0n6n",
-      "2n6n3n5n8n0n7n4n",
-      "2n6n5n7n8n4n8n2n",
-      "2n6n5n8n3n3n3n7n"
-    ],
-    "otrosNumeros": [
-      "3n2n2n3n9n9n5n4n8n4n"
-    ],
-    "images": [
-      "2n0n2n6n/n0n7n/n0n2n/ncn0n/n4n9nbnanfn6n7n2nan6ncnenan2n2nenfn9n0n8nfn3nan0n5n5n3nen2n3nenbn.njnpngn",
-      "2n0n2n5n/n1n0n/n0n5n/n8nbn/nbn7n8nendnan2nan7nbn7n7ndn6n2ncn8nfnan7n6nbndnan7nanen4ndn4n2n7n.njnpngn"
-    ],
-    "mensaje": "tnantninsn nensnan nfnenan nqnunen npnanrnencnen ntnrnanvnensntnin"
-  },
-  {
-    "celular": "3n2n1n4n7n1n6n9n6n7n",
-    "rato": 0,
-    "media": 0,
-    "hora": 0,
-    "lugar": "nnon",
-    "codigos": [
-      "2n5n1n4n6n5n9n3n",
-      "2n5n1n5n8n2n5n4n",
-      "2n5n2n6n7n7n9n8n",
-      "2n5n4n4n0n5n6n4n",
-      "2n5n4n4n0n5n7n1n",
-      "2n5n4n8n1n4n6n7n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n5n/n0n1n/n1n5n/n7nfn/n8n0n5ncn8nen4nfn5ndnfn0n3n2ncnfndn1n5n6nfn2n3n6nan7n2n3n5n1n7ndn.njnpngn"
-    ],
-    "mensaje": "cnonlnonnninanln"
   },
   {
     "celular": "3n1n3n2n7n0n7n9n2n9n",
@@ -1588,46 +1757,6 @@ let perfiles = [
     "mensaje": "anmnonrn ntnen nonfnrnensncnon nbnensnonsn ncnanrnincninansn nanbnrnanznonsn ntnrnantnon ndnen nnnonvninonsn nsnenxnon nonrnanln nyn nvnanjninnnanln n1n5n0n nlnan nhnonrnan n1n0n0n nlnan nmnendninan n"
   },
   {
-    "celular": "3n2n1n3n4n6n3n7n2n2n",
-    "rato": 0,
-    "media": 0,
-    "hora": 0,
-    "lugar": "nnon",
-    "codigos": [
-      "2n4n5n9n5n8n7n9n",
-      "2n4n6n4n2n1n5n3n",
-      "2n5n1n4n8n4n3n2n",
-      "2n5n1n5n8n0n9n8n",
-      "2n5n1n7n0n5n8n4n",
-      "2n5n2n5n9n2n3n7n",
-      "2n5n4n6n4n0n6n1n",
-      "2n5n4n7n2n7n0n7n",
-      "2n5n4n9n9n1n9n7n",
-      "2n5n5n2n2n2n8n5n",
-      "2n5n6n0n5n9n7n2n",
-      "2n5n6n6n5n1n9n8n",
-      "2n5n6n7n3n5n9n2n",
-      "2n5n7n4n3n1n7n3n",
-      "2n5n7n4n3n1n7n7n",
-      "2n5n8n6n3n0n6n0n",
-      "2n5n8n7n2n5n6n3n",
-      "2n5n9n3n3n4n8n3n",
-      "2n5n9n3n3n5n0n1n",
-      "2n5n9n3n3n5n1n8n",
-      "2n6n0n4n6n2n3n4n",
-      "2n6n3n5n8n2n8n6n",
-      "2n6n6n7n4n9n2n5n"
-    ],
-    "otrosNumeros": [
-      "3n0n2n5n9n8n4n1n3n1n"
-    ],
-    "images": [
-      "2n0n2n6n/n0n8n/n2n9n/ncn1n/n8n1n5nanen3n8ndnbn6ndnen6n9n8n0ndnandnancnen3n1n2nbn0n8nen0nen5n.njnpngn",
-      "2n0n2n6n/n0n2n/n2n1n/n2n9n/n6n2nan8n7n1n5nbn8nfn9n5ncn9nfndn3n3nfn5n8n0ndn5n6n0nen5n0nen1nen.njnpngn"
-    ],
-    "mensaje": "dnunlncnen npnencnandnon"
-  },
-  {
     "celular": "3n2n0n4n3n2n9n5n4n4n",
     "rato": 70,
     "media": 80,
@@ -1749,38 +1878,6 @@ let perfiles = [
     "mensaje": "lninnnan nyn nmnanrnlnonnn nhnonlnan nanmnonrn nmnen nennncnannntnanrnan ncnonmnpnlnancnenrntnen nmninsn nsnenrnvnincninonsn nsnonnn nbnensnonsn nanpnansninonnnandnonsn ncnanrnincninansn ntnrnantn ndn"
   },
   {
-    "celular": "3n1n8n8n5n8n7n4n8n6n",
-    "rato": 1,
-    "media": 1,
-    "hora": 100,
-    "lugar": "mnanrninonnn",
-    "codigos": [
-      "2n3n7n3n6n2n8n5n",
-      "2n3n7n4n3n8n8n9n",
-      "2n3n7n7n4n1n7n5n",
-      "2n3n8n6n0n9n6n4n",
-      "2n3n9n2n5n1n1n3n",
-      "2n4n2n4n4n2n8n1n",
-      "2n5n2n1n9n2n5n5n",
-      "2n5n2n5n7n6n6n9n",
-      "2n5n2n6n3n1n8n1n",
-      "2n6n0n3n2n2n2n8n"
-    ],
-    "otrosNumeros": [
-      "3n1n3n4n6n0n4n4n2n8n",
-      "3n1n4n3n1n7n4n0n7n2n",
-      "3n1n2n8n2n4n5n9n3n6n",
-      "3n1n0n5n5n2n2n4n8n0n",
-      "3n2n2n3n0n6n8n3n1n1n",
-      "3n2n1n3n2n0n2n3n0n5n",
-      "3n2n0n9n1n4n0n4n8n8n"
-    ],
-    "images": [
-      "2n0n2n4n/n1n0n/n2n1n/n6n5n/n2ndn0n3n2n3n9n6nbnfndnfnenanen2n4n0n6n3n4n4n4n3nan7ncn9n6n5n6n5n.njnpngn"
-    ],
-    "mensaje": ""
-  },
-  {
     "celular": "3n2n0n9n5n6n1n0n4n6n",
     "rato": 50,
     "media": 70,
@@ -1797,25 +1894,6 @@ let perfiles = [
     "mensaje": "dnonmnincninlninon ncnonmnon nfnenan nhnonlnan nanmnonrn nmnin nnnonmnbnrnen nensn ncnanmninlnan nmnin nsnenrnvnincninon ninnncnlnunynen nlnon nsningnuninennntnen nonrnanln nanln nnnantnunrnanln nsnin"
   },
   {
-    "celular": "3n1n4n2n6n2n6n5n8n2n",
-    "rato": 1,
-    "media": 1,
-    "hora": 1,
-    "lugar": "nnon",
-    "codigos": [
-      "2n6n6n0n3n7n6n9n",
-      "2n6n6n0n4n1n6n8n",
-      "2n6n6n0n7n4n1n4n",
-      "2n6n6n1n5n4n0n4n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n6n/n0n9n/n1n5n/nanbn/nfnfn3n9n9nen6ncnfnan0n9n3n9nanfnenen9nfn7n3nen3n8n7n1n5ncn6nen9n.njnpngn",
-      "2n0n2n6n/n0n8n/n0n8n/nbn6n/n0n5ndnan8n0n8n1n0ndncnen4n7n7n2n6nfn7n0n5n2n2n4n3n8n5ncn5n2n7nbn.njnpngn"
-    ],
-    "mensaje": "3n7n nannninonsn"
-  },
-  {
     "celular": "3n1n8n8n2n9n2n2n8n7n",
     "rato": 70,
     "media": 1,
@@ -1829,25 +1907,6 @@ let perfiles = [
       "2n0n2n5n/n0n3n/n1n3n/ndnen/n3n3n3n0ncn8n5n2n6nfn3n5n1n9n6n5ndnan4n2nancn2nbn6n7nbncn2n5n6ndn.njnpngn"
     ],
     "mensaje": "hnonlnan nbnunennn ndnan6n0nmninln nenln nrnantnon nsninnn nanfnannnensn nsnintninon ninnncnlnunindnon nyn npnrnensnenrnvnantninvnonsn n1n2n0nmninln nlnan nhnonrnan nsninnn nanfnannnensn ntnrnantnon n"
-  },
-  {
-    "celular": "3n2n1n5n2n9n0n5n1n6n",
-    "rato": 60,
-    "media": 90,
-    "hora": 130,
-    "lugar": "cnonlnonnninanln",
-    "codigos": [
-      "2n6n1n6n0n0n7n3n",
-      "2n6n2n8n9n3n3n0n",
-      "2n6n3n1n0n5n7n1n",
-      "2n6n3n1n1n9n4n2n",
-      "2n6n6n0n6n4n5n5n"
-    ],
-    "otrosNumeros": [],
-    "images": [
-      "2n0n2n6n/n0n1n/n1n1n/nbnfn/n2n3n3nen9n5n1n3n1n3ncnan8n7n1n4n0n8n9nen1nfn4n5n4n9n4nfnen9n5n7n.njnpngn"
-    ],
-    "mensaje": "hnonlnan nmnonrn nlninnndnon nmnen nlnlnanmnon nhnenlnennn nunnnan nhnenrnmnonsnan npnenlnin nnnengnrnan ndnenlngnandnan ntnondnan nunnnan ncnanjnintnan ndnen nsnonrnpnrnensnansn nennn nlnan ncnanmnan"
   },
   {
     "celular": "3n1n3n2n9n0n3n0n4n4n",
@@ -1934,22 +1993,20 @@ let perfiles = [
     "mensaje": "mnunyn nbnunennnansn nnnoncnhnensn ncnonnn nmnuncnhnon ngnunsntnon ntnen nennnvnon nlnan ninnnfnonrnmnancninnn nlnan nindnenan nensn nqnunen nlnan nlnenansn ncnonmnpnlnentnanmnennntnen nyn nmnen ncnon"
   },
   {
-    "celular": "3n2n0n6n7n0n0n3n6n1n",
-    "rato": 60,
-    "media": 90,
-    "hora": 140,
-    "lugar": "cnansnanbnonnnintnan",
+    "celular": "3n1n4n8n0n6n6n5n0n6n",
+    "rato": 80,
+    "media": 100,
+    "hora": 160,
+    "lugar": "nnon",
     "codigos": [
-      "2n6n6n4n2n8n7n4n",
-      "2n6n6n4n2n8n8n8n",
-      "2n6n6n4n2n9n1n5n",
-      "2n6n6n6n2n1n7n9n"
+      "2n5n4n6n3n1n0n4n",
+      "2n5n7n2n5n3n6n5n"
     ],
     "otrosNumeros": [],
     "images": [
-      "2n0n2n6n/n0n8n/n1n0n/n7ncn/n0n6n5n1nbnfn4n6n9n0n8n1n0nbn0n0n6n7nan4n2n3n6n4n9n8ncn0n5n4n5n4n.njnpngn"
+      "2n0n2n5n/n0n6n/n0n7n/n2n1n/n7n4ncncnen6n3nen8n4n0nfn8nan1nfn1n5n4n5nen3n0n9n8n3n3n0nan7n8n4n.njnpngn"
     ],
-    "mensaje": "hnonlnan nanmnonrn nsnonyn ngninnnan nunnnan nhnenrnmnonsnan ncnrnensnpnan ndninvnenrntnindnan ncnanlninennntnen ncnanrninonsnan nyn nmnunyn ncnonmnpnlnancninennntnen nmninsn nsnenrnvnincninonsn ninnn"
+    "mensaje": "nnunnncnan ndnincnen ndnonnndnen nantninennndnen nyn nsnen npnunbnlnincnan nennn nontnrnansn ncninundnandnensn nmnunyn nrnanpnindnanmnennntnen nhnonlnan nmnin nvnindnan nsnonyn nnngnenln nbninennnvnen"
   },
   {
     "celular": "3n1n4n2n6n4n1n4n9n7n",
@@ -2011,47 +2068,6 @@ let perfiles = [
       "2n0n2n6n/n0n3n/n0n6n/n7nfn/n3nbncncn5n8n0n2n7n0n1nfnfn0n9n4n0n8n3n2n7n9nen3nan7ndncn5n0n5n7n.njnpngn"
     ],
     "mensaje": "hnonlnan nanmnonrn nsnonyn nsnanrnan ncnonlnonmnbninannnan ndnen n1n9n nanonsn nmnindnon n1n5n0n nsnenxnon nrnanln nyn nvnangninnnanln ntnondnon ncnonnn npnrnensnenrnvnantninvnon npnonsnensn ncnanrnin"
-  },
-  {
-    "celular": "3n2n1n2n3n1n3n7n2n2n",
-    "rato": 80,
-    "media": 110,
-    "hora": 200,
-    "lugar": "hnonmnencnennntnenrn",
-    "codigos": [
-      "2n3n8n3n3n7n1n1n",
-      "2n4n0n9n3n7n2n5n",
-      "2n4n9n6n2n1n6n5n",
-      "2n5n0n7n6n6n1n4n",
-      "2n5n0n7n9n6n5n8n",
-      "2n5n0n9n6n8n6n8n",
-      "2n5n1n2n4n8n6n5n",
-      "2n5n5n0n3n0n3n3n",
-      "2n5n5n0n3n7n2n6n",
-      "2n5n5n3n9n6n0n8n",
-      "2n5n7n1n2n3n3n8n",
-      "2n5n7n1n2n3n7n1n",
-      "2n5n7n6n2n6n8n5n",
-      "2n5n7n7n1n8n4n4n",
-      "2n5n7n7n4n3n8n2n",
-      "2n5n8n3n5n1n2n1n",
-      "2n5n8n3n5n1n3n4n",
-      "2n6n1n5n5n8n3n5n",
-      "2n6n1n5n5n8n5n8n",
-      "2n6n1n6n6n1n8n3n",
-      "2n6n1n6n6n1n9n5n",
-      "2n6n2n1n5n6n7n5n",
-      "2n6n3n2n7n8n4n2n",
-      "2n6n6n3n3n0n8n0n"
-    ],
-    "otrosNumeros": [
-      "3n1n4n5n7n8n5n9n8n1n1n",
-      "3n0n2n5n9n4n4n6n0n1n"
-    ],
-    "images": [
-      "2n0n2n5n/n1n1n/n2n3n/n5n0n/nenbn3nan1ndnan0n8nen1n4n1n6n2n6n7n8n2n1n0nbnbnan3ndn8n7nen0n1n9n.njnpngn"
-    ],
-    "mensaje": "snonyn nunnnan nhnenrnmnonsnan nmnen nlnlnanmnon nnninknonln nensncnonrntnsn nancnonmnpnanannntnen njnonvnennn nsnenxnin nyn nmnunyn ncnonmnpnlnancninennntnen nmnin nmninrnandnan nensn ntnannn ninnnon"
   },
   {
     "celular": "3n2n2n3n1n4n4n5n1n7n",
