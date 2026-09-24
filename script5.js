@@ -83,3 +83,8 @@ document.getElementById("btnOpcion6").addEventListener("click", () => {
     const perfilesTemporales = perfiles.filter(perfil => perfil.lugar !== 'no').sort((a, b) => Number(a.detalles.split('-')[0]) - Number(b.detalles.split('-')[0]))
     dibujar(perfilesTemporales)
 });
+
+document.getElementById("btnOpcion7").addEventListener("click", () => {
+    const perfilesTemporales = perfiles.filter(perfil => perfil.lugar !== 'no').sort((a, b) => b.codes.length - a.codes.length)
+    dibujar(perfilesTemporales)
+});
