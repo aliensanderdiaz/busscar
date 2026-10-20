@@ -2,7 +2,7 @@
 
 // Aunque podrian ser menos pero habria que buscar el limite
 
-let final = 66
+let final = 71
 
 
 
