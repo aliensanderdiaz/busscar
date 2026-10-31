@@ -49,11 +49,13 @@ btnConfig.addEventListener("click", () => {
 document.getElementById("btnOpcion1").addEventListener("click", () => {
     const perfilesTemporales = perfiles.filter(perfil => perfil.lugar !== 'no')
     dibujar(perfilesTemporales)
+    menu.classList.toggle("show");
 });
 
 document.getElementById("btnOpcion2").addEventListener("click", () => {
     const perfilesTemporales = perfiles.filter(perfil => perfil.lugar === 'no')
     dibujar(perfilesTemporales)
+    menu.classList.toggle("show");
 });
 
 document.getElementById("btnOpcion3").addEventListener("click", () => {
@@ -67,24 +69,29 @@ document.getElementById("btnOpcion3").addEventListener("click", () => {
         return 0;
     })
     dibujar(perfilesTemporales)
+    menu.classList.toggle("show");
 });
 
 document.getElementById("btnOpcion4").addEventListener("click", () => {
     const perfilesTemporales = perfiles.filter(perfil => perfil.lugar !== 'no').sort((a, b) => Number(a.detalles.split('-')[2]) - Number(b.detalles.split('-')[2]))
     dibujar(perfilesTemporales)
+    menu.classList.toggle("show");
 });
 
 document.getElementById("btnOpcion5").addEventListener("click", () => {
     const perfilesTemporales = perfiles.filter(perfil => perfil.lugar !== 'no').sort((a, b) => Number(a.detalles.split('-')[1]) - Number(b.detalles.split('-')[1]))
     dibujar(perfilesTemporales)
+    menu.classList.toggle("show");
 });
 
 document.getElementById("btnOpcion6").addEventListener("click", () => {
     const perfilesTemporales = perfiles.filter(perfil => perfil.lugar !== 'no').sort((a, b) => Number(a.detalles.split('-')[0]) - Number(b.detalles.split('-')[0]))
     dibujar(perfilesTemporales)
+    menu.classList.toggle("show");
 });
 
 document.getElementById("btnOpcion7").addEventListener("click", () => {
     const perfilesTemporales = perfiles.filter(perfil => perfil.lugar !== 'no').sort((a, b) => b.codes.length - a.codes.length)
     dibujar(perfilesTemporales)
+    menu.classList.toggle("show");
 });
